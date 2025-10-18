@@ -1,0 +1,20 @@
+title: Iceland Tourism Directory
+description: Curated directory of Iceland travel tools and resources
+baseurl: ""
+url: ""
+
+theme: minima
+
+# Optional: Social links in footer
+github_username: ironmaster16
+
+# Collections for organizing content (optional - can add later)
+# collections:
+#   resources:
+#     output: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
