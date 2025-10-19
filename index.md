@@ -56,6 +56,10 @@ A curated directory of essential tools and resources for traveling in Iceland, o
 - **<a href="https://guidetoiceland.is" target="_blank">Guide to Iceland</a>** - Large travel marketplace for tours, cars, and accommodations.
 - **<a href="https://ferdalag.is" target="_blank">Ferdalag.is</a>** - Icelandic Touring Association. Hiking tours and mountain huts.
 
+## News & Media
+
+- **<a href="https://grapevine.is" target="_blank">Grapevine.is</a>** - The Reykjavik Grapevine. English-language news, culture, and travel features about Iceland.
+
 ## Parks & Nature
 
 - **<a href="https://thingvellir.is" target="_blank">Thingvellir National Park</a>** - UNESCO site where North American and Eurasian tectonic plates meet.
@@ -68,3 +72,7 @@ A curated directory of essential tools and resources for traveling in Iceland, o
 This directory is maintained by locals and focuses on the most useful resources for visitors. No affiliate links, just honest recommendations.
 
 Last updated: {{ "now" | date: "%Y-%m-%d" }}
+
+---
+
+{% include tourist_news.md %}
