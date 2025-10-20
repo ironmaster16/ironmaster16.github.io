@@ -3,7 +3,8 @@ description: Curated directory of Iceland travel tools and resources
 baseurl: ""
 url: ""
 
-theme: minima
+theme: cayman 
+# minima
 
 # Optional: Social links in footer
 github_username: ironmaster16
