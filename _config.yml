@@ -7,8 +7,6 @@ url: ""
 # minima
 
 remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Optional: Social links in footer
 github_username: ironmaster16
@@ -23,3 +21,4 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
