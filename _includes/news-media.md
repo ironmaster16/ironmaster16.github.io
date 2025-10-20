@@ -3,6 +3,7 @@
 ### English-Language News & Media
 
 - **<a href="https://www.icelandreview.com" target="_blank">Iceland Review</a>** - Long-established English magazine covering Icelandic news, culture, and current affairs.
+- **<a href="https://icelandictimes.com/" target="_blank">Icelandic Times</a>** - English-language news covering Iceland's latest stories and current affairs.
 - **<a href="https://icelandmonitor.mbl.is" target="_blank">Iceland Monitor</a>** - English news from Morgunblaðið, covering daily news and events.
 - **<a href="https://grapevine.is" target="_blank">Grapevine.is</a>** - The Reykjavik Grapevine. English-language news, culture, and travel features about Iceland.
 - **<a href="https://icelandmag.is" target="_blank">Iceland Magazine</a>** - News, culture, and travel stories about Iceland.

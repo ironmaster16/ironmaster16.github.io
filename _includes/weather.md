@@ -7,4 +7,4 @@
 - **<a href="https://en.vedur.is/earthquakes-and-volcanism/earthquakes" target="_blank">Earthquake Activity</a>** - Real-time earthquake monitoring and volcanic activity updates.
 - **<a href="https://www.mountain-forecast.com/countries/Iceland" target="_blank">Mountain Forecast Iceland</a>** - Detailed mountain weather for hiking and climbing conditions.
 - **<a href="https://en.vedur.is/weather/forecasts/sea" target="_blank">Sea Forecast</a>** - Marine weather and sea conditions for coastal areas and boat trips.
-- **<a href="https://www.yr.no/en/map/forecast/1-8063105/Iceland/Capital%20Region/Reykjav%C3%ADk" target="_blank">Yr.no Iceland</a>** - Norwegian Meteorological Institute's Iceland forecasts, alternative weather source.
+- **<a href="https://www.yr.no/en/forecast/daily-table/2-3413829/Iceland/Capital%20Region/Reykjav%C3%ADkurborg/Reykjavik" target="_blank">Yr.no Iceland</a>** - Norwegian Meteorological Institute's Iceland forecasts, alternative weather source.
