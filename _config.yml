@@ -3,8 +3,12 @@ description: Curated directory of Iceland travel tools and resources
 baseurl: ""
 url: ""
 
-theme: cayman 
+#theme: cayman 
 # minima
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Optional: Social links in footer
 github_username: ironmaster16
