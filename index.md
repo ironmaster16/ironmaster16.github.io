@@ -9,6 +9,10 @@ A curated directory of essential tools and resources for traveling in Iceland, o
 
 ---
 
+{% include tourist_news.md %}
+
+---
+
 {% include emergency.md %}
 
 {% include weather.md %}
@@ -33,10 +37,6 @@ A curated directory of essential tools and resources for traveling in Iceland, o
 
 ## About
 
-This directory is maintained by locals and focuses on the most useful resources for visitors. No affiliate links, just honest recommendations.
+This directory is maintained by locals and focuses on the most useful resources for visitors. All links are verified before being added and checked monthly for availability.
 
-Last updated: {{ "now" | date: "%Y-%m-%d" }}
-
----
-
-{% include tourist_news.md %}
+Last verified: October 2025
