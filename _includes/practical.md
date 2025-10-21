@@ -10,11 +10,11 @@
 - **<a href="https://bonus.is" target="_blank">Bónus</a>** - Iceland's discount supermarket chain (pink pig logo). Most affordable groceries.
 - **<a href="https://kronan.is" target="_blank">Kronan</a>** - Another budget-friendly supermarket chain across Iceland.
 - **<a href="https://lyfogheilsa.is" target="_blank">Lyf og heilsa</a>** - Iceland's largest pharmacy chain for medications and health products.
-- **<a href="https://postur.is/english" target="_blank">Íslandspóstur</a>** - Iceland Post. Postal services, parcel shipping, and business hours.
-- **<a href="https://vinbudin.is/english/um-okkur/english" target="_blank">Vinbúðin</a>** - State-run alcohol stores (only place to buy alcohol over 2.25%). Store locator and hours.
+- **<a href="https://posturinn.is/en/" target="_blank">Íslandspóstur</a>** - Iceland Post. Postal services, parcel shipping, and business hours.
+- **<a href="https://www.vinbudin.is/english/desktopdefault.aspx/tabid-189/#map" target="_blank">Vinbúðin</a>** - State-run alcohol stores (only place to buy alcohol over 2.25%). Store locator and hours.
 - **<a href="https://islendingabok.is/english" target="_blank">Íslendingaapp</a>** - "Book of Icelanders" app - cultural curiosity. Check if you're related to other Icelanders or your Icelandic friends.
 - **<a href="https://www.nova.is/en" target="_blank">Nova Iceland</a>** - Third mobile network operator with competitive tourist SIM card options.
 - **<a href="https://www.icelandicmountainguides.is" target="_blank">Icelandic Mountain Guides</a>** - Professional glacier hiking, ice climbing, and mountaineering tours.
 - **<a href="https://www.olis.is" target="_blank">Olís</a>** - Major gas station chain with locations across Iceland. Fuel, convenience stores, and car services.
 - **<a href="https://n1.is/en" target="_blank">N1</a>** - Iceland's largest fuel station network. Hot dogs, groceries, and 24/7 locations.
-- **<a href="https://rafraent.island.is/en" target="_blank">Island.is</a>** - Official digital government portal for public services, permits, and visitor information.
+- **<a href="https://island.is/en" target="_blank">Island.is</a>** - Official digital government portal for public services, permits, and visitor information.

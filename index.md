@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Iceland Tourism Directory
+title: Iceland Curated
 ---
 
-# Iceland Tourism Resources
+# Iceland Tourism Directory
 
 A curated directory of essential tools and resources for traveling in Iceland, organized by locals.
 

@@ -115,6 +115,16 @@ Edit appropriate `_includes/[section].md` file, then commit and push.
 - News processing: `iceland-news/logs/news_filter.log`
 - Cron jobs: `/var/log/syslog` or `~/.local/logs/`
 
+### Backup Rotation
+Output file backups are automatically rotated. Configure in `config.json`:
+```json
+"output": {
+  "max_backups": 10  // Keep only last 10 backups (default)
+}
+```
+Backups are stored as `tourist_news.md.YYYYMMDD_HHMMSS.bak` in the output folder.
+Oldest backups are automatically deleted when the limit is exceeded.
+
 ---
 
 ## TODO Tracker

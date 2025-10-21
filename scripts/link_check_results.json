@@ -1,0 +1,948 @@
+{
+  "timestamp": "2025-10-21T21:48:19.623632",
+  "summary": {
+    "total": 104,
+    "working": 79,
+    "broken": 20,
+    "slow": 0,
+    "redirects": 0
+  },
+  "links": [
+    {
+      "url": "https://www.visiticeland.com/plan-your-trip/getting-around-iceland/driving-in-iceland",
+      "source": "other.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.65,
+      "error": null,
+      "final_url": "https://www.visiticeland.com/plan-your-trip/getting-around-iceland/driving-in-iceland"
+    },
+    {
+      "url": "https://www.fiskistofa.is/english",
+      "source": "other.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.15,
+      "error": null,
+      "final_url": "https://island.is/s/fiskistofa"
+    },
+    {
+      "url": "https://www.listasafnreykjavikur.is/en",
+      "source": "other.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.42,
+      "error": null,
+      "final_url": "https://listasafnreykjavikur.is/en"
+    },
+    {
+      "url": "https://en.listasafn.is",
+      "source": "other.md",
+      "status": "broken",
+      "status_code": null,
+      "response_time": null,
+      "error": "Connection failed",
+      "final_url": "https://en.listasafn.is"
+    },
+    {
+      "url": "https://www.museumofsorceryandwitchcraft.is",
+      "source": "other.md",
+      "status": "broken",
+      "status_code": null,
+      "response_time": null,
+      "error": "Connection failed",
+      "final_url": "https://www.museumofsorceryandwitchcraft.is"
+    },
+    {
+      "url": "https://visiticeland.com",
+      "source": "tourism.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.78,
+      "error": null,
+      "final_url": "https://www.visiticeland.com/"
+    },
+    {
+      "url": "https://inspiredbyiceland.com",
+      "source": "tourism.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.69,
+      "error": null,
+      "final_url": "https://inspiredbyiceland.com/"
+    },
+    {
+      "url": "https://visitreykjavik.is",
+      "source": "tourism.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.42,
+      "error": null,
+      "final_url": "https://visitreykjavik.is/"
+    },
+    {
+      "url": "https://visitakureyri.is/en",
+      "source": "tourism.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.64,
+      "error": null,
+      "final_url": "https://www.visitakureyri.is/en"
+    },
+    {
+      "url": "https://www.whatson.is",
+      "source": "tourism.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.59,
+      "error": null,
+      "final_url": "https://www.whatson.is/"
+    },
+    {
+      "url": "https://www.nat.is",
+      "source": "tourism.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.59,
+      "error": null,
+      "final_url": "https://nat.is/"
+    },
+    {
+      "url": "https://vaktin.is",
+      "source": "tourism.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.5,
+      "error": null,
+      "final_url": "https://vaktin.is/"
+    },
+    {
+      "url": "https://www.bluelagoon.com",
+      "source": "tourism.md",
+      "status": "warning",
+      "status_code": 403,
+      "response_time": 0.14,
+      "error": null,
+      "final_url": "https://www.bluelagoon.com/"
+    },
+    {
+      "url": "https://straeto.is",
+      "source": "transportation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.67,
+      "error": null,
+      "final_url": "https://www.straeto.is/"
+    },
+    {
+      "url": "https://bsi.is",
+      "source": "transportation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.64,
+      "error": null,
+      "final_url": "https://www.re.is/"
+    },
+    {
+      "url": "https://publictransport.is",
+      "source": "transportation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.28,
+      "error": null,
+      "final_url": "https://publictransport.is/"
+    },
+    {
+      "url": "https://icelandair.com",
+      "source": "transportation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.44,
+      "error": null,
+      "final_url": "https://www.icelandair.com/"
+    },
+    {
+      "url": "https://airicelandconnect.com",
+      "source": "transportation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.44,
+      "error": null,
+      "final_url": "https://www.icelandair.com/"
+    },
+    {
+      "url": "https://re.is",
+      "source": "transportation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.41,
+      "error": null,
+      "final_url": "https://www.re.is/"
+    },
+    {
+      "url": "https://sterna.is",
+      "source": "transportation.md",
+      "status": "broken",
+      "status_code": null,
+      "response_time": null,
+      "error": "Connection failed",
+      "final_url": "https://sterna.is"
+    },
+    {
+      "url": "https://keflavikairport.com",
+      "source": "transportation.md",
+      "status": "warning",
+      "status_code": 405,
+      "response_time": 1.87,
+      "error": null,
+      "final_url": "https://keflavikairport.com/"
+    },
+    {
+      "url": "https://www.flybus.is",
+      "source": "transportation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.7,
+      "error": null,
+      "final_url": "https://www.re.is/tour/flybus/"
+    },
+    {
+      "url": "https://www.isavia.is/en",
+      "source": "transportation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.54,
+      "error": null,
+      "final_url": "https://www.kefairport.is/isavia-en"
+    },
+    {
+      "url": "https://www.icelandreview.com",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.77,
+      "error": null,
+      "final_url": "https://www.icelandreview.com/"
+    },
+    {
+      "url": "https://icelandictimes.com/",
+      "source": "news-media.md",
+      "status": "warning",
+      "status_code": 403,
+      "response_time": 0.19,
+      "error": null,
+      "final_url": "https://icelandictimes.com/"
+    },
+    {
+      "url": "https://icelandmonitor.mbl.is",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.08,
+      "error": null,
+      "final_url": "https://icelandmonitor.mbl.is/news/"
+    },
+    {
+      "url": "https://grapevine.is",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.1,
+      "error": null,
+      "final_url": "https://grapevine.is/"
+    },
+    {
+      "url": "https://icelandmag.is",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.27,
+      "error": null,
+      "final_url": "https://icelandmag.is/"
+    },
+    {
+      "url": "https://www.ruv.is/english",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.14,
+      "error": null,
+      "final_url": "https://www.ruv.is/english"
+    },
+    {
+      "url": "https://www.visir.is",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.09,
+      "error": null,
+      "final_url": "https://www.visir.is/"
+    },
+    {
+      "url": "https://www.mbl.is",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.09,
+      "error": null,
+      "final_url": "https://www.mbl.is/frettir/"
+    },
+    {
+      "url": "https://stundin.is/english/",
+      "source": "news-media.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.69,
+      "error": null,
+      "final_url": "https://heimildin.is/english/"
+    },
+    {
+      "url": "https://www.highnorthnews.com",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.52,
+      "error": null,
+      "final_url": "https://www.highnorthnews.com/en"
+    },
+    {
+      "url": "https://www.arctictoday.com",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.15,
+      "error": null,
+      "final_url": "https://www.arctictoday.com/"
+    },
+    {
+      "url": "https://bokmenntir.is/en/",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.41,
+      "error": null,
+      "final_url": "https://bokmenntir.is/en"
+    },
+    {
+      "url": "https://www.ruv.is/ruv/frettir",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.14,
+      "error": null,
+      "final_url": "https://www.ruv.is/ruv/frettir"
+    },
+    {
+      "url": "https://www.bylgjan.is",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.77,
+      "error": null,
+      "final_url": "https://bylgjan.visir.is:443/"
+    },
+    {
+      "url": "https://guidetoiceland.is/blog",
+      "source": "news-media.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.36,
+      "error": null,
+      "final_url": "https://guidetoiceland.is/blog"
+    },
+    {
+      "url": "https://www.iheartreykjavik.net",
+      "source": "news-media.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.58,
+      "error": null,
+      "final_url": "https://www.iheartreykjavik.net/"
+    },
+    {
+      "url": "https://booking.com",
+      "source": "accommodation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.39,
+      "error": null,
+      "final_url": "https://www.booking.com/"
+    },
+    {
+      "url": "https://bungalo.com",
+      "source": "accommodation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 2.16,
+      "error": null,
+      "final_url": "https://bungalo.com/"
+    },
+    {
+      "url": "https://dineout.is",
+      "source": "accommodation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.79,
+      "error": null,
+      "final_url": "https://www.dineout.is/"
+    },
+    {
+      "url": "https://www.hostel.is",
+      "source": "accommodation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.75,
+      "error": null,
+      "final_url": "https://www.hostel.is/"
+    },
+    {
+      "url": "https://www.farmholidays.is",
+      "source": "accommodation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.88,
+      "error": null,
+      "final_url": "https://www.heyiceland.is/"
+    },
+    {
+      "url": "https://www.glamping.is",
+      "source": "accommodation.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.7,
+      "error": null,
+      "final_url": "https://www.godaland.is/"
+    },
+    {
+      "url": "https://www.airbnb.com/iceland",
+      "source": "accommodation.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.65,
+      "error": null,
+      "final_url": "https://www.airbnb.com/iceland"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Restaurants-g189952-Iceland.html",
+      "source": "accommodation.md",
+      "status": "warning",
+      "status_code": 403,
+      "response_time": 0.67,
+      "error": null,
+      "final_url": "https://www.tripadvisor.com/Restaurants-g189952-Iceland.html"
+    },
+    {
+      "url": "https://vedur.is",
+      "source": "weather.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.09,
+      "error": null,
+      "final_url": "https://vedur.is/"
+    },
+    {
+      "url": "https://road.is",
+      "source": "weather.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.29,
+      "error": null,
+      "final_url": "https://umferdin.is/en"
+    },
+    {
+      "url": "https://safetravel.is/weather",
+      "source": "weather.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.23,
+      "error": null,
+      "final_url": "https://safetravel.is/weather"
+    },
+    {
+      "url": "https://en.vedur.is/weather/forecasts/aurora",
+      "source": "weather.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.14,
+      "error": null,
+      "final_url": "https://en.vedur.is/weather/forecasts/aurora"
+    },
+    {
+      "url": "https://en.vedur.is/earthquakes-and-volcanism/earthquakes",
+      "source": "weather.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.09,
+      "error": null,
+      "final_url": "https://en.vedur.is/earthquakes-and-volcanism/earthquakes"
+    },
+    {
+      "url": "https://www.mountain-forecast.com/countries/Iceland",
+      "source": "weather.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.68,
+      "error": null,
+      "final_url": "https://www.mountain-forecast.com/countries/Iceland"
+    },
+    {
+      "url": "https://en.vedur.is/weather/forecasts/sea",
+      "source": "weather.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.09,
+      "error": null,
+      "final_url": "https://en.vedur.is/weather/forecasts/sea"
+    },
+    {
+      "url": "https://www.yr.no/en/forecast/daily-table/2-3413829/Iceland/Capital%20Region/Reykjav%C3%ADkurborg/Reykjavik",
+      "source": "weather.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.29,
+      "error": null,
+      "final_url": "https://www.yr.no/en/forecast/daily-table/2-3413829/Iceland/Capital%20Region/Reykjav%C3%ADkurborg/Reykjavik"
+    },
+    {
+      "url": "https://northiceland.is",
+      "source": "regional.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.96,
+      "error": null,
+      "final_url": "https://www.northiceland.is/"
+    },
+    {
+      "url": "https://east.is",
+      "source": "regional.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.0,
+      "error": null,
+      "final_url": "https://www.east.is/"
+    },
+    {
+      "url": "https://south.is",
+      "source": "regional.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.02,
+      "error": null,
+      "final_url": "https://www.south.is/"
+    },
+    {
+      "url": "https://west.is",
+      "source": "regional.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.8,
+      "error": null,
+      "final_url": "https://www.west.is/"
+    },
+    {
+      "url": "https://westfjords.is",
+      "source": "regional.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.69,
+      "error": null,
+      "final_url": "https://www.westfjords.is/"
+    },
+    {
+      "url": "https://visitreykjanes.is",
+      "source": "regional.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.96,
+      "error": null,
+      "final_url": "https://www.visitreykjanes.is/"
+    },
+    {
+      "url": "https://www.south.is/en/inspiration/destinations/vik",
+      "source": "regional.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.2,
+      "error": null,
+      "final_url": "https://www.south.is/en/inspiration/destinations/vik"
+    },
+    {
+      "url": "https://www.visitvestmannaeyjar.is/en",
+      "source": "regional.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.86,
+      "error": null,
+      "final_url": "https://www.visitvestmannaeyjar.is/en"
+    },
+    {
+      "url": "https://www.visithusavik.is",
+      "source": "regional.md",
+      "status": "timeout",
+      "status_code": null,
+      "response_time": null,
+      "error": "Timeout after 10s",
+      "final_url": "https://www.visithusavik.is"
+    },
+    {
+      "url": "https://www.southeast.is",
+      "source": "regional.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.61,
+      "error": null,
+      "final_url": "https://www.southeast.is/"
+    },
+    {
+      "url": "https://www.northeast.is",
+      "source": "regional.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.07,
+      "error": null,
+      "final_url": "https://invest.northeast.is/"
+    },
+    {
+      "url": "https://112.is",
+      "source": "emergency.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.58,
+      "error": null,
+      "final_url": "https://www.112.is/"
+    },
+    {
+      "url": "https://safetravel.is",
+      "source": "emergency.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.21,
+      "error": null,
+      "final_url": "https://safetravel.is/"
+    },
+    {
+      "url": "https://icesar.com",
+      "source": "emergency.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.48,
+      "error": null,
+      "final_url": "https://www.icesar.com/"
+    },
+    {
+      "url": "https://www.landlaeknir.is/english",
+      "source": "emergency.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 1.74,
+      "error": null,
+      "final_url": "https://island.is:443/english"
+    },
+    {
+      "url": "https://logreglan.is/english",
+      "source": "emergency.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 3.32,
+      "error": null,
+      "final_url": "https://island.is:443/en/o/icelandic-police"
+    },
+    {
+      "url": "https://ust.is/the-environment-agency-of-iceland",
+      "source": "emergency.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.22,
+      "error": null,
+      "final_url": "https://ust.is/english/"
+    },
+    {
+      "url": "https://en.vedur.is/weather/warnings",
+      "source": "emergency.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.1,
+      "error": null,
+      "final_url": "https://en.vedur.is/weather/warnings"
+    },
+    {
+      "url": "https://www.icelandreview.com/news/snow-and-sleet-forecast-across-north-and-southwest-iceland/",
+      "source": "tourist_news.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.27,
+      "error": null,
+      "final_url": "https://www.icelandreview.com/news/snow-and-sleet-forecast-across-north-and-southwest-iceland/"
+    },
+    {
+      "url": "https://nyr.ruv.is/english/2025-10-15-uncertainty-over-eruption-but-something-likely-before-christmas-456207/",
+      "source": "tourist_news.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.44,
+      "error": null,
+      "final_url": "https://nyr.ruv.is/english/2025-10-15-uncertainty-over-eruption-but-something-likely-before-christmas-456207"
+    },
+    {
+      "url": "https://grapevine.is/mag/articles/2025/09/30/the-haul-yes-mps-buy-stuff-too/",
+      "source": "tourist_news.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.07,
+      "error": null,
+      "final_url": "https://grapevine.is/mag/articles/2025/09/30/the-haul-yes-mps-buy-stuff-too/"
+    },
+    {
+      "url": "https://www.icelandreview.com/news/passenger-plane-diverted-to-keflavik-following-technical-issue/",
+      "source": "tourist_news.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.24,
+      "error": null,
+      "final_url": "https://www.icelandreview.com/news/passenger-plane-diverted-to-keflavik-following-technical-issue/"
+    },
+    {
+      "url": "https://grapevine.is/mag/2025/10/12/word-of-the-issue-stranded-idiot/",
+      "source": "tourist_news.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.07,
+      "error": null,
+      "final_url": "https://grapevine.is/mag/2025/10/12/word-of-the-issue-stranded-idiot/"
+    },
+    {
+      "url": "https://grapevine.is/news/2025/10/08/bjork-expresses-support-to-icelandic-citizen-kidnapped-by-israel/",
+      "source": "tourist_news.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.08,
+      "error": null,
+      "final_url": "https://grapevine.is/news/2025/10/08/bjork-expresses-support-to-icelandic-citizen-kidnapped-by-israel/"
+    },
+    {
+      "url": "https://thingvellir.is",
+      "source": "parks.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 2.54,
+      "error": null,
+      "final_url": "https://www.thingvellir.is/"
+    },
+    {
+      "url": "https://vjp.is",
+      "source": "parks.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.46,
+      "error": null,
+      "final_url": "https://www.vatnajokulsthjodgardur.is/"
+    },
+    {
+      "url": "https://snaefellsjokull.is/en",
+      "source": "parks.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.57,
+      "error": null,
+      "final_url": "https://snaefellsjokull.is/en/"
+    },
+    {
+      "url": "https://www.ust.is/the-environment-agency-of-iceland/protected-areas",
+      "source": "parks.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.28,
+      "error": null,
+      "final_url": "https://www.ust.is/the-environment-agency-of-iceland/protected-areas"
+    },
+    {
+      "url": "https://www.umhverfisstofnun.is/en",
+      "source": "parks.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.27,
+      "error": null,
+      "final_url": "https://www.umhverfisstofnun.is/en"
+    },
+    {
+      "url": "https://www.lmi.is/en",
+      "source": "parks.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.1,
+      "error": null,
+      "final_url": "https://www.natt.is/en"
+    },
+    {
+      "url": "https://www.ust.is/landvernd/fridlyst-svaedi",
+      "source": "parks.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.26,
+      "error": null,
+      "final_url": "https://www.ust.is/landvernd/fridlyst-svaedi"
+    },
+    {
+      "url": "https://ja.is",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.4,
+      "error": null,
+      "final_url": "https://ja.is/"
+    },
+    {
+      "url": "https://guidetoiceland.is",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.36,
+      "error": null,
+      "final_url": "https://guidetoiceland.is/"
+    },
+    {
+      "url": "https://ferdalag.is",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.46,
+      "error": null,
+      "final_url": "https://www.ferdalag.is/"
+    },
+    {
+      "url": "https://arionbanki.is/english/atm-locator",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.35,
+      "error": null,
+      "final_url": "https://www.arionbanki.is/kerfissidur/404/"
+    },
+    {
+      "url": "https://landsbankinn.is/english",
+      "source": "practical.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.45,
+      "error": null,
+      "final_url": "https://www.landsbankinn.is/english"
+    },
+    {
+      "url": "https://siminn.is/english/prepaid",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 1.02,
+      "error": null,
+      "final_url": "https://www.siminn.is:443/english/prepaid"
+    },
+    {
+      "url": "https://vodafone.is/english",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.9,
+      "error": null,
+      "final_url": "https://www.syn.is/en"
+    },
+    {
+      "url": "https://bonus.is",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.58,
+      "error": null,
+      "final_url": "https://bonus.is/"
+    },
+    {
+      "url": "https://kronan.is",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.23,
+      "error": null,
+      "final_url": "https://kronan.is/"
+    },
+    {
+      "url": "https://lyfogheilsa.is",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.83,
+      "error": null,
+      "final_url": "https://www.lyfogheilsa.is/"
+    },
+    {
+      "url": "https://postur.is/english",
+      "source": "practical.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.78,
+      "error": null,
+      "final_url": "https://posturinn.is/english"
+    },
+    {
+      "url": "https://vinbudin.is/english/um-okkur/english",
+      "source": "practical.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.41,
+      "error": null,
+      "final_url": "https://www.vinbudin.is/desktopdefault.aspx/tabid-108/httpstatus-404/"
+    },
+    {
+      "url": "https://islendingabok.is/english",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.1,
+      "error": null,
+      "final_url": "https://islendingabok.is/english"
+    },
+    {
+      "url": "https://www.nova.is/en",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.37,
+      "error": null,
+      "final_url": "https://www.nova.is/en"
+    },
+    {
+      "url": "https://www.icelandicmountainguides.is",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.14,
+      "error": null,
+      "final_url": "https://www.icelandicmountainguides.is/"
+    },
+    {
+      "url": "https://www.olis.is",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.25,
+      "error": null,
+      "final_url": "https://www.olis.is/"
+    },
+    {
+      "url": "https://n1.is/en",
+      "source": "practical.md",
+      "status": "working",
+      "status_code": 200,
+      "response_time": 0.42,
+      "error": null,
+      "final_url": "https://www.n1.is/en"
+    },
+    {
+      "url": "https://rafraent.island.is/en",
+      "source": "practical.md",
+      "status": "broken",
+      "status_code": 404,
+      "response_time": 0.21,
+      "error": null,
+      "final_url": "https://rafraent.island.is/en"
+    }
+  ]
+}
