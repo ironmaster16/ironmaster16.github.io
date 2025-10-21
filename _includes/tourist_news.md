@@ -1,6 +1,6 @@
 ## News for Tourists
 
-*Last updated: 2025-10-21 20:15*
+*Last updated: 2025-10-21 21:08*
 
 - <a href="https://www.icelandreview.com/news/snow-and-sleet-forecast-across-north-and-southwest-iceland/" target="_blank">Snow and Sleet Forecast Across North and Southwest Iceland</a> <small>Iceland Review • Mon, 20 Oc</small>
 - <a href="https://nyr.ruv.is/english/2025-10-15-uncertainty-over-eruption-but-something-likely-before-christmas-456207/" target="_blank">Uncertainty over eruption - but &quot;something&quot; likely before Christmas</a> <small>RUV English • Wed, 15 Oc</small>
