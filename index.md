@@ -1,11 +1,15 @@
 ---
-layout: page
+layout: default
 title: Iceland Tourism Directory
 ---
 
 # Iceland Tourism Resources
 
 A curated directory of essential tools and resources for traveling in Iceland, organized by locals.
+
+---
+
+{% include tourist_news.md %}
 
 ---
 
@@ -36,7 +40,3 @@ A curated directory of essential tools and resources for traveling in Iceland, o
 This directory is maintained by locals and focuses on the most useful resources for visitors. All links are verified before being added and checked monthly for availability.
 
 Last verified: October 2025
-
----
-
-{% include tourist_news.md %}
