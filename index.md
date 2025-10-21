@@ -1,17 +1,22 @@
 ---
-layout: default
-title: Iceland Tourism Directory
+layout: single
+title: "Iceland Tourism Resources"
+permalink: /
+author_profile: false
+classes: wide
 ---
 
-# Iceland Tourism Resources
+<div class="page__content-wrapper">
+  <aside class="sidebar__right sticky">
+    <div class="sidebar-news">
+      <h4><i class="fas fa-newspaper"></i> Latest Tourist News</h4>
+      {% include tourist_news.md %}
+    </div>
+  </aside>
 
-A curated directory of essential tools and resources for traveling in Iceland, organized by locals.
+  <div class="page__content">
 
----
-
-{% include tourist_news.md %}
-
----
+A curated directory of essential tools and resources for traveling in Iceland, maintained by locals.
 
 {% include emergency.md %}
 
@@ -36,7 +41,11 @@ A curated directory of essential tools and resources for traveling in Iceland, o
 ---
 
 ## About
+{: #about}
 
 This directory is maintained by locals and focuses on the most useful resources for visitors. All links are verified before being added and checked monthly for availability.
 
 Last verified: October 2025
+
+  </div>
+</div>

@@ -1,0 +1,36 @@
+# Main navigation (top bar)
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /#about
+
+# Sidebar navigation
+resources:
+  - title: "Latest News"
+    children:
+      - title: "Tourist News"
+        url: "#news-for-tourists"
+
+  - title: "Essential Resources"
+    children:
+      - title: "Emergency"
+        url: "#emergency-resources"
+      - title: "Weather"
+        url: "#weather"
+      - title: "Transportation"
+        url: "#transportation"
+      - title: "Tourism Services"
+        url: "#tourism-services"
+      - title: "Regional Information"
+        url: "#regional-information"
+      - title: "Accommodation"
+        url: "#accommodation"
+      - title: "Practical Info"
+        url: "#practical-information"
+      - title: "News & Media"
+        url: "#news--media"
+      - title: "Parks & Nature"
+        url: "#parks--nature"
+      - title: "Other Resources"
+        url: "#other-resources"
