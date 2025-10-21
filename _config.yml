@@ -3,9 +3,18 @@ description: Curated directory of Iceland travel tools and resources
 baseurl: ""
 url: ""
 
-#theme: slate (dark version of cayman)
+#theme: lanyon (sidebar theme with dark mode)
 
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: poole/lanyon
+
+# Lanyon theme settings
+tagline: 'Essential tourism resources maintained by locals'
+author:
+  name: 'Local Iceland Guide'
+  url: https://github.com/ironmaster16
+
+# Sidebar settings
+sidebar_home_link: true
 
 # Optional: Social links in footer
 github_username: ironmaster16
