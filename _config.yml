@@ -3,47 +3,22 @@ description: Curated directory of Iceland travel tools and resources
 baseurl: ""
 url: ""
 
-# Theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#theme: cayman 
+# minima
 
-# Site Settings
-locale: "en-US"
-name: "Iceland Tourism Directory"
-repository: "ironmaster16/ironmaster16.github.io"
+remote_theme: pages-themes/cayman@v0.2.0
 
-# Site Author
-author:
-  name: "Local Iceland Guide"
-  bio: "Essential tourism resources maintained by locals"
-  location: "Iceland"
+# Optional: Social links in footer
+github_username: ironmaster16
 
-# Reading Files
-include:
-  - _pages
-
-# Exclude from processing
-exclude:
-  - docs/
-  - README.md
-
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      sidebar:
-        nav: "resources"
+# Collections for organizing content (optional - can add later)
+# collections:
+#   resources:
+#     output: true
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
