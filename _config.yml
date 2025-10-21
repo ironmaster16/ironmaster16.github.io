@@ -3,10 +3,9 @@ description: Curated directory of Iceland travel tools and resources
 baseurl: ""
 url: ""
 
-#theme: cayman 
-# minima
+#theme: slate (dark version of cayman)
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 
 # Optional: Social links in footer
 github_username: ironmaster16
