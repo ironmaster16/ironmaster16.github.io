@@ -1,9 +1,10 @@
 ## News for Tourists
 
-*Last updated: 2025-10-22 10:05*
+*Last updated: 2025-10-22 12:31*
 
-- <a href="https://nyr.ruv.is/english/2025-10-21-yellow-warnings-in-eastern-iceland-456744/" target="_blank">Yellow warnings in eastern Iceland</a> <small>RUV English • Oct 21</small>
-- <a href="https://www.icelandreview.com/news/severe-winds-set-to-disrupt-travel-in-eastern-iceland/" target="_blank">Severe Winds Set to Disrupt Travel in Eastern Iceland</a> <small>Iceland Review • Oct 21</small>
-- <a href="https://nyr.ruv.is/english/2025-10-21-ruv-english-radio-the-northern-lights-aurora-reykjavik-456786/" target="_blank">RÚV English Radio - THE NORTHERN LIGHTS: AURORA REYKJAVÍK</a> <small>RUV English • Oct 21</small>
-- <a href="https://nyr.ruv.is/english/2025-10-22-reports-from-public-essential-to-avian-flu-monitoring-456833/" target="_blank">Reports from public &#x27;essential&#x27; to avian flu monitoring</a> <small>RUV English • Oct 22</small>
-- <a href="https://nyr.ruv.is/english/2025-10-22-nursing-home-project-run-aground-by-government-construction-agency-says-constructor-456832/" target="_blank">Nursing home project &quot;run aground&quot; by government construction agency, says constructor</a> <small>RUV English • Oct 22</small>
+- <a href="https://grapevine.is/news/2025/10/22/gale-force-winds-prompt-road-warning-in-southeast-iceland-snow-prompts-warnings-in-east-and-northeast/" target="_blank">Gale Force Winds Prompt Road Warning In Southeast Iceland, Snow Prompts Warnings In East And Northeast</a> <small>Grapevine • Oct 22</small>
+- <a href="https://nyr.ruv.is/english/2025-10-22-midnight-mass-this-friday-at-adventkirkjan-456856/" target="_blank">Midnight mass this Friday at Aðventkirkjan</a> <small>RUV English • Oct 22</small>
+- <a href="https://nyr.ruv.is/english/2025-10-22-influencers-said-to-receive-money-from-illegal-betting-456851/" target="_blank">Influencers said to receive money from illegal betting</a> <small>RUV English • Oct 22</small>
+- <a href="https://www.icelandreview.com/news/fjardarheidi-pass-closed-amid-snow-and-blizzard-conditions/" target="_blank">Fjarðarheiði Pass Closed Amid Snow and Blizzard Conditions</a> <small>Iceland Review • Oct 22</small>
+- <a href="https://www.icelandreview.com/news/first-storm-call-out-for-hornafjordur-team-in-east-iceland/" target="_blank">First Storm Call-Out for Hornafjörður Team in East Iceland</a> <small>Iceland Review • Oct 22</small>
+- <a href="https://grapevine.is/news/2025/10/22/icelanders-expected-to-spend-36-billion-isk-gambling-online/" target="_blank">Icelanders Expected To Spend 36 Billion ISK Gambling Online</a> <small>Grapevine • Oct 22</small>
