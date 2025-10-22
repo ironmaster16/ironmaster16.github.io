@@ -1,10 +1,10 @@
 ## News for Tourists
 
-*Last updated: 2025-10-22 12:31*
+*Last updated: 2025-10-22 18:35*
 
-- <a href="https://grapevine.is/news/2025/10/22/gale-force-winds-prompt-road-warning-in-southeast-iceland-snow-prompts-warnings-in-east-and-northeast/" target="_blank">Gale Force Winds Prompt Road Warning In Southeast Iceland, Snow Prompts Warnings In East And Northeast</a> <small>Grapevine • Oct 22</small>
-- <a href="https://nyr.ruv.is/english/2025-10-22-midnight-mass-this-friday-at-adventkirkjan-456856/" target="_blank">Midnight mass this Friday at Aðventkirkjan</a> <small>RUV English • Oct 22</small>
-- <a href="https://nyr.ruv.is/english/2025-10-22-influencers-said-to-receive-money-from-illegal-betting-456851/" target="_blank">Influencers said to receive money from illegal betting</a> <small>RUV English • Oct 22</small>
-- <a href="https://www.icelandreview.com/news/fjardarheidi-pass-closed-amid-snow-and-blizzard-conditions/" target="_blank">Fjarðarheiði Pass Closed Amid Snow and Blizzard Conditions</a> <small>Iceland Review • Oct 22</small>
-- <a href="https://www.icelandreview.com/news/first-storm-call-out-for-hornafjordur-team-in-east-iceland/" target="_blank">First Storm Call-Out for Hornafjörður Team in East Iceland</a> <small>Iceland Review • Oct 22</small>
-- <a href="https://grapevine.is/news/2025/10/22/icelanders-expected-to-spend-36-billion-isk-gambling-online/" target="_blank">Icelanders Expected To Spend 36 Billion ISK Gambling Online</a> <small>Grapevine • Oct 22</small>
+- <a href="https://nyr.ruv.is/english/2025-10-22-ruv-english-radio-glaumbaer-456882/" target="_blank">RÚV English Radio - GLAUMBÆR</a> <small>RUV English • Oct 22</small>
+- <a href="https://nyr.ruv.is/english/2025-10-22-air-traffic-controllers-cancel-second-strike-456886/" target="_blank">Air traffic controllers cancel second strike</a> <small>RUV English • Oct 22</small>
+- <a href="https://grapevine.is/news/2025/10/22/grapevine-events-kvennaverkfall-and-kvennaar-celebrations/" target="_blank">Grapevine Events: Kvennaverkfall And Kvennaár Celebrations</a> <small>Grapevine • Oct 22</small>
+- <a href="https://grapevine.is/music/2025/10/22/pall-oskar-and-benni-hemm-hemm-enjoy-two-weeks-at-number-one-endure-two-hour-grapevine-podcast/" target="_blank">Páll Óskar and Benni Hemm Hemm Enjoy Two Weeks At Number One, Endure Two Hour Grapevine Podcast</a> <small>Grapevine • Oct 22</small>
+- <a href="https://nyr.ruv.is/english/2025-10-22-it-all-becomes-stranger-and-stranger-as-the-years-go-by-456885/" target="_blank">&quot;It all becomes stranger and stranger as the years go by&quot;</a> <small>RUV English • Oct 22</small>
+- <a href="https://nyr.ruv.is/english/2025-10-22-fjardarheidi-closed-in-east-456862/" target="_blank">Fjarðarheiði closed in east</a> <small>RUV English • Oct 22</small>
