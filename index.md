@@ -3,9 +3,7 @@ layout: default
 title: Iceland Curated
 ---
 
-# Iceland Tourism Directory
-
-A curated directory of essential tools and resources for traveling in Iceland, organized by locals.
+*Curated by a local Icelander to help you navigate Iceland like an insider.*
 
 ---
 
@@ -31,12 +29,14 @@ A curated directory of essential tools and resources for traveling in Iceland, o
 
 ---
 
-## About
-
-This directory is maintained by locals and focuses on the most useful resources for visitors. All links are verified before being added and checked monthly for availability.
-
-Last verified: October 2025
+{% include tourist_news.md %}
 
 ---
 
-{% include tourist_news.md %}
+## About
+
+This directory is maintained by a local Icelander who lives here year-round. Unlike commercial tourism sites, this focuses purely on the most useful resources for visitors—no affiliate links, no sponsored content, just honest recommendations.
+
+All links are verified before being added and checked monthly for availability.
+
+Last verified: October 2025
