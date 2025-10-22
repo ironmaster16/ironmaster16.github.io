@@ -2,8 +2,11 @@
 layout: default
 title: Iceland Curated
 ---
-- **Emergency Number: 112** - Police, ambulance, fire, and search & rescue. All-in-one emergency number.
+
+*Curated by a local Icelander to help you navigate Iceland like an insider.*
+
 ---
+
 
 {% include emergency.md %}
 
