@@ -1,7 +1,7 @@
 # Iceland Tourism Directory - Maintenance Guide
 
 ## Purpose
-A curated directory of essential Iceland tourism resources maintained by locals. No affiliate links, just practical tools for tourists planning or visiting now.
+A curated directory of essential Iceland tourism resources maintained by locals. Just practical tools for tourists planning or visiting now.
 
 **Target Audience**: English-speaking tourists planning trips or currently in Iceland
 
