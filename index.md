@@ -22,6 +22,10 @@ title: Iceland Curated
 
 {% include practical.md %}
 
+{% include entertainment-nightlife.md %}
+
+{% include culture-museums.md %}
+
 {% include news-media.md %}
 
 {% include parks.md %}
