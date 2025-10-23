@@ -1,10 +1,8 @@
 ## News for Tourists
 
-*Last updated: 2025-10-22 18:35*
+*Last updated: 2025-10-23 07:04*
 
-- <a href="https://nyr.ruv.is/english/2025-10-22-ruv-english-radio-glaumbaer-456882/" target="_blank">RÚV English Radio - GLAUMBÆR</a> <small>RUV English • Oct 22</small>
-- <a href="https://nyr.ruv.is/english/2025-10-22-air-traffic-controllers-cancel-second-strike-456886/" target="_blank">Air traffic controllers cancel second strike</a> <small>RUV English • Oct 22</small>
-- <a href="https://grapevine.is/news/2025/10/22/grapevine-events-kvennaverkfall-and-kvennaar-celebrations/" target="_blank">Grapevine Events: Kvennaverkfall And Kvennaár Celebrations</a> <small>Grapevine • Oct 22</small>
-- <a href="https://grapevine.is/music/2025/10/22/pall-oskar-and-benni-hemm-hemm-enjoy-two-weeks-at-number-one-endure-two-hour-grapevine-podcast/" target="_blank">Páll Óskar and Benni Hemm Hemm Enjoy Two Weeks At Number One, Endure Two Hour Grapevine Podcast</a> <small>Grapevine • Oct 22</small>
-- <a href="https://nyr.ruv.is/english/2025-10-22-it-all-becomes-stranger-and-stranger-as-the-years-go-by-456885/" target="_blank">&quot;It all becomes stranger and stranger as the years go by&quot;</a> <small>RUV English • Oct 22</small>
-- <a href="https://nyr.ruv.is/english/2025-10-22-fjardarheidi-closed-in-east-456862/" target="_blank">Fjarðarheiði closed in east</a> <small>RUV English • Oct 22</small>
+- <a href="https://nyr.ruv.is/english/2025-10-21-yellow-warnings-in-eastern-iceland-456744/" target="_blank">Yellow warnings in eastern Iceland</a> <small>RUV English • Oct 21</small>
+- <a href="https://www.icelandreview.com/news/severe-winds-set-to-disrupt-travel-in-eastern-iceland/" target="_blank">Severe Winds Set to Disrupt Travel in Eastern Iceland</a> <small>Iceland Review • Oct 21</small>
+- <a href="https://nyr.ruv.is/english/2025-10-21-ruv-english-radio-the-northern-lights-aurora-reykjavik-456786/" target="_blank">RÚV English Radio - THE NORTHERN LIGHTS: AURORA REYKJAVÍK</a> <small>RUV English • Oct 21</small>
+- <a href="https://www.icelandreview.com/news/air-traffic-control-strike-averted-for-now-amid-ongoing-talks/" target="_blank">Air Traffic Control Strike Averted for Now Amid Ongoing Talks</a> <small>Iceland Review • Oct 22</small>
