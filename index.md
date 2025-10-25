@@ -16,9 +16,7 @@ title: Iceland Curated
 
 {% include tourism.md %}
 
-{% include regional.md %}
-
-{% include accommodation.md %}
+{% include accommodation-dining.md %}
 
 {% include practical.md %}
 

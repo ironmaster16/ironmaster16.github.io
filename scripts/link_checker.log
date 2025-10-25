@@ -1,0 +1,58 @@
+2025-10-24 12:59:31 - INFO - ============================================================
+2025-10-24 12:59:31 - INFO - Link Checker started
+2025-10-24 12:59:31 - INFO - Config: {'output': {'json_file': 'scripts/link_check_results.json', 'log_file': 'scripts/link_checker.log', 'log_level': 'INFO'}, 'checking': {'timeout': 10, 'slow_threshold': 5, 'max_workers': 10, 'retry_with_get': True, 'rate_limit_delay': 0.1}, 'features': {'detect_parked_domains': True, 'detect_fake_404': True, 'detect_homepage_redirects': True, 'check_title_changes': False, 'screenshot_failures': False}, 'priority_files': ['emergency.md', 'weather.md', 'transportation.md'], 'parked_domain_keywords': ['domain parked', 'this domain is for sale', 'buy this domain', 'domain parking', 'sedo', 'godaddy parked'], 'fake_404_keywords': ['404', 'not found', 'page not found', 'error 404', "doesn't exist"]}
+2025-10-24 12:59:31 - INFO - Processing file: emergency.md
+2025-10-24 12:59:31 - INFO - Processing file: weather.md
+2025-10-24 12:59:31 - INFO - Processing file: transportation.md
+2025-10-24 12:59:31 - INFO - Processing file: other.md
+2025-10-24 12:59:31 - INFO - Processing file: tourism.md
+2025-10-24 12:59:31 - INFO - Processing file: news-media.md
+2025-10-24 12:59:31 - INFO - Processing file: entertainment-nightlife.md
+2025-10-24 12:59:31 - INFO - Processing file: accommodation-dining.md
+2025-10-24 12:59:31 - INFO - Processing file: regional.md
+2025-10-24 12:59:31 - INFO - Processing file: tourist_news.md
+2025-10-24 12:59:31 - INFO - Processing file: parks.md
+2025-10-24 12:59:31 - INFO - Processing file: practical.md
+2025-10-24 12:59:31 - INFO - Processing file: culture-museums.md
+2025-10-24 12:59:31 - INFO - Total links to check: 128
+2025-10-24 12:59:31 - INFO - Starting parallel checking with 10 workers
+2025-10-24 12:59:51 - INFO - All links checked
+2025-10-24 13:02:15 - INFO - ============================================================
+2025-10-24 13:02:15 - INFO - Link Checker started
+2025-10-24 13:02:15 - INFO - Config: {'output': {'json_file': 'scripts/link_check_results.json', 'log_file': 'scripts/link_checker.log', 'log_level': 'INFO', 'save_only_problems': False}, 'checking': {'timeout': 10, 'slow_threshold': 5, 'max_workers': 10, 'retry_with_get': True, 'rate_limit_delay': 0.1}, 'features': {'detect_parked_domains': True, 'detect_fake_404': True, 'detect_homepage_redirects': True, 'check_title_changes': False, 'screenshot_failures': False}, 'priority_files': ['emergency.md', 'weather.md', 'transportation.md'], 'parked_domain_keywords': ['domain parked', 'this domain is for sale', 'buy this domain', 'domain parking', 'sedo', 'godaddy parked'], 'fake_404_keywords': ['404', 'not found', 'page not found', 'error 404', "doesn't exist"]}
+2025-10-24 13:02:15 - INFO - Processing file: emergency.md
+2025-10-24 13:02:15 - INFO - Processing file: weather.md
+2025-10-24 13:02:15 - INFO - Processing file: transportation.md
+2025-10-24 13:02:15 - INFO - Processing file: other.md
+2025-10-24 13:02:15 - INFO - Processing file: tourism.md
+2025-10-24 13:02:15 - INFO - Processing file: news-media.md
+2025-10-24 13:02:15 - INFO - Processing file: entertainment-nightlife.md
+2025-10-24 13:02:15 - INFO - Processing file: accommodation-dining.md
+2025-10-24 13:02:15 - INFO - Processing file: regional.md
+2025-10-24 13:02:15 - INFO - Processing file: tourist_news.md
+2025-10-24 13:02:15 - INFO - Processing file: parks.md
+2025-10-24 13:02:15 - INFO - Processing file: practical.md
+2025-10-24 13:02:15 - INFO - Processing file: culture-museums.md
+2025-10-24 13:02:15 - INFO - Total links to check: 128
+2025-10-24 13:02:15 - INFO - Starting parallel checking with 10 workers
+2025-10-24 13:02:34 - INFO - All links checked
+2025-10-24 13:02:34 - INFO - Filtered out 11 working links from results file
+2025-10-24 13:05:02 - INFO - ============================================================
+2025-10-24 13:05:02 - INFO - Link Checker started
+2025-10-24 13:05:02 - INFO - Config: {'output': {'json_file': 'scripts/link_check_results.json', 'log_file': 'scripts/link_checker.log', 'log_level': 'INFO', 'save_only_problems': False}, 'checking': {'timeout': 10, 'slow_threshold': 5, 'max_workers': 10, 'retry_with_get': True, 'rate_limit_delay': 0.1}, 'features': {'detect_parked_domains': True, 'detect_fake_404': True, 'detect_homepage_redirects': True, 'check_title_changes': False, 'screenshot_failures': False}, 'priority_files': ['emergency.md', 'weather.md', 'transportation.md'], 'parked_domain_keywords': ['domain parked', 'this domain is for sale', 'buy this domain', 'domain parking', 'sedo', 'godaddy parked'], 'fake_404_keywords': ['404', 'not found', 'page not found', 'error 404', "doesn't exist"]}
+2025-10-24 13:05:02 - INFO - Processing file: emergency.md
+2025-10-24 13:05:02 - INFO - Processing file: weather.md
+2025-10-24 13:05:02 - INFO - Processing file: transportation.md
+2025-10-24 13:05:02 - INFO - Processing file: other.md
+2025-10-24 13:05:02 - INFO - Processing file: tourism.md
+2025-10-24 13:05:02 - INFO - Processing file: news-media.md
+2025-10-24 13:05:02 - INFO - Processing file: entertainment-nightlife.md
+2025-10-24 13:05:02 - INFO - Processing file: accommodation-dining.md
+2025-10-24 13:05:02 - INFO - Processing file: regional.md
+2025-10-24 13:05:02 - INFO - Processing file: tourist_news.md
+2025-10-24 13:05:02 - INFO - Processing file: parks.md
+2025-10-24 13:05:02 - INFO - Processing file: practical.md
+2025-10-24 13:05:02 - INFO - Processing file: culture-museums.md
+2025-10-24 13:05:02 - INFO - Total links to check: 128
+2025-10-24 13:05:02 - INFO - Starting parallel checking with 10 workers
+2025-10-24 13:05:21 - INFO - All links checked

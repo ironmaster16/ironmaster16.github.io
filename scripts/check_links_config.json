@@ -1,0 +1,42 @@
+{
+  "output": {
+    "json_file": "scripts/link_check_results.json",
+    "log_file": "scripts/link_checker.log",
+    "log_level": "INFO",
+    "save_only_problems": false
+  },
+  "checking": {
+    "timeout": 10,
+    "slow_threshold": 5,
+    "max_workers": 10,
+    "retry_with_get": true,
+    "rate_limit_delay": 0.1
+  },
+  "features": {
+    "detect_parked_domains": true,
+    "detect_fake_404": true,
+    "detect_homepage_redirects": true,
+    "check_title_changes": false,
+    "screenshot_failures": false
+  },
+  "priority_files": [
+    "emergency.md",
+    "weather.md",
+    "transportation.md"
+  ],
+  "parked_domain_keywords": [
+    "domain parked",
+    "this domain is for sale",
+    "buy this domain",
+    "domain parking",
+    "sedo",
+    "godaddy parked"
+  ],
+  "fake_404_keywords": [
+    "404",
+    "not found",
+    "page not found",
+    "error 404",
+    "doesn't exist"
+  ]
+}
