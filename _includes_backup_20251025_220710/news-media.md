@@ -12,5 +12,5 @@
 - **<a href="https://www.highnorthnews.com/en" target="_blank">High North News</a>** - Arctic news including significant Iceland coverage.
 - **<a href="https://www.arctictoday.com" target="_blank">Arctic Today</a>** - Circumpolar news with Iceland stories.
 - **<a href="https://bokmenntir.is/en" target="_blank">Iceland Review of Books</a>** - Literary and cultural commentary.
-- **<a href="https://bylgjan.visir.is:443/" target="_blank">Bylgjan</a>** - Popular radio station. <small>Icelandic</small>
+- **<a href="https://www.bylgjan.is" target="_blank">Bylgjan</a>** - Popular radio station. <small>Icelandic</small>
 - **<a href="https://guidetoiceland.is/" target="_blank">Guide to Iceland Blog</a>** - News and tips for travelers.

@@ -1,6 +1,6 @@
 ## Entertainment & Nightlife
 
-- **<a href="https://www.harpa.is/" target="_blank">Harpa Concert Hall</a>** - Reykjavik's main concert and conference venue. Home to Iceland Symphony Orchestra. Events, tickets, and venue info.
+- **<a href="https://harpa.is" target="_blank">Harpa Concert Hall</a>** - Reykjavik's main concert and conference venue. Home to Iceland Symphony Orchestra. Events, tickets, and venue info.
 - **<a href="https://tix.is/" target="_blank">Tix.is</a>** - Iceland's main ticket booking platform for concerts, shows, and major events nationwide.
 - **<a href="https://www.whatson.is/" target="_blank">What's On</a>** - Events calendar for concerts, festivals, exhibitions, and cultural happenings across Iceland.
 - **<a href="https://events.grapevine.is/" target="_blank">Grapevine Events</a>** - English-language event listings in Reykjavik and around Iceland. Search by date and category.
