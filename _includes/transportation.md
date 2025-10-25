@@ -2,13 +2,13 @@
 
 ### Car Rentals
 - **<a href="https://www.sadcars.com" target="_blank">SADcars.com</a>** - Local comparison site for rental car prices across Iceland.
-- **<a href="https://www.bluecarrental.is" target="_blank">Blue Car Rental</a>** - Budget-friendly option with airport pickup.
+- **<a href="https://www.bluecarrental.is/" target="_blank">Blue Car Rental</a>** - Budget-friendly option with airport pickup.
 - **Note**: F-roads (mountain roads) require 4WD vehicles. Gravel damage insurance is often separate from CDW. Check insurance coverage carefully before signing.
 
 ### Public Transport & Buses
 - **<a href="https://straeto.is" target="_blank">Straeto.is</a>** - Reykjavik's public bus system. Routes, schedules, and journey planner.
 - **<a href="https://bsi.is" target="_blank">BSÍ.is</a>** - Main bus terminal. Long-distance routes and coach tours.
-- **<a href="https://publictransport.is" target="_blank">PublicTransport.is</a>** - Overview of all public transport options across Iceland.
+- **<a href="https://publictransport.is/" target="_blank">PublicTransport.is</a>** - Overview of all public transport options across Iceland.
 - **<a href="https://re.is" target="_blank">Reykjavik Excursions</a>** - Major tour operator with bus services to popular destinations like Blue Lagoon and Golden Circle.
 - **<a href="https://sterna.is" target="_blank">Sterna</a>** - Long-distance bus routes and scheduled services across Iceland.
 
