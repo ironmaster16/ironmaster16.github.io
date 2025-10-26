@@ -73,45 +73,6 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 
 ---
 
-## Dining & Food
-
-- [ ] **<a href="https://hlemmurmatholl.is/en/" target="_blank">Hlemmur Mathöll</a>** - Food hall in downtown Reykjavik with diverse vendors, open until late.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: PRIORITY - budget-friendly, variety, local favorite
-
-- [ ] **<a href="https://grandimatholl.is/" target="_blank">Grandi Mathöll</a>** - Food hall in Grandi harbor area with 8 food stalls.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: PRIORITY - newer food hall, waterfront location
-
-- [ ] **<a href="https://bbp.is/en/" target="_blank">Bæjarins Beztu Pylsur</a>** - Famous hot dog stand in Reykjavik since 1937.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Iconic cheap eat, cultural experience
-
-- [ ] **<a href="https://www.visitreykjavik.is/restaurants" target="_blank">Visit Reykjavik Restaurants</a>** - Official restaurant guide and search for Reykjavik.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Low-maintenance platform approach
-
-- [ ] **<a href="https://www.bakari.is/" target="_blank">Brauð & Co</a>** - Highly-rated bakery chain with multiple Reykjavik locations.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Budget breakfast option, very popular
-
-- [ ] **<a href="https://sandholt.is/en/" target="_blank">Sandholt Bakery</a>** - Historic bakery in downtown Reykjavik since 1920.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Tourist-friendly, central location
-
-- [ ] **<a href="https://www.reykjavikfoodwalk.com/" target="_blank">Reykjavik Food Walk</a>** - Guided food tours of Reykjavik.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Food tour option for those who want guided experience
-
----
-
 ## Outdoor Activities & Camping
 
 - [ ] **<a href="https://www.campsites.is/" target="_blank">Campsites.is</a>** - Directory of campsites across Iceland with booking.
@@ -197,3 +158,18 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
   - Published: 2025-10-26
   - Location: practical.md - Supermarkets & Shopping subsection
   - Links: Kringlan, Smáralind, Laugavegur, Kolaportið
+
+- **Dining & Food** (7 links)
+  - Published: 2025-10-26
+  - Location: dining.md - Added 5 new subsections
+  - Links: DineOut, Visit Reykjavik Restaurants, Hlemmur Mathöll, Grandi Mathöll, BBP hot dogs, Brauð & Co, Sandholt, Reykjavik Food Walk
+
+- **Blue Lagoon**
+  - Published: 2025-10-26
+  - Location: practical.md - Swimming Pools & Hot Springs subsection
+  - Source: Moved from deleted Official Tourism Information section
+
+- **Visit Reykjavik**
+  - Published: 2025-10-26
+  - Location: practical.md - General Services subsection
+  - Source: Moved from deleted Official Tourism Information section

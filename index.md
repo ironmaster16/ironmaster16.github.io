@@ -8,23 +8,21 @@ title: Iceland Curated
 
 {% include weather.md %}
 
+{% include practical.md %}
+
 {% include transportation.md %}
 
-{% include tourism.md %}
+{% include parks.md %}
 
 {% include accommodation.md %}
 
 {% include dining.md %}
 
-{% include practical.md %}
+{% include culture-museums.md %}
 
 {% include entertainment-nightlife.md %}
 
-{% include culture-museums.md %}
-
 {% include news-media.md %}
-
-{% include parks.md %}
 
 ---
 
