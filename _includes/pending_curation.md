@@ -71,11 +71,6 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 
 ## Other / Uncategorized
 
-- [ ] **<a href="https://island.is/s/fiskistofa" target="_blank">Directorate of Fisheries</a>** - Fishing permits, regulations, and information for recreational fishing.
-  - Found: 2025-10-26
-  - Source: Moved from deleted "Other Resources" category
-  - Notes: Decide if this belongs in Practical or is too niche
-
 ---
 
 ## Dining & Food
@@ -183,6 +178,11 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 - **<a href="https://www.icelandictipjar.com/" target="_blank">Tipping in Iceland Guide</a>**
   - Reviewed: 2025-10-26
   - Rejected: URL doesn't exist, likely made up
+
+- [ ] **<a href="https://island.is/s/fiskistofa" target="_blank">Directorate of Fisheries</a>** - Fishing permits, regulations, and information for recreational fishing.
+  - Found: 2025-10-26
+  - Source: Moved from deleted "Other Resources" category
+  - Notes: Decide if this belongs in Practical or is too niche
 
 ---
 

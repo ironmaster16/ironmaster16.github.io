@@ -3,10 +3,6 @@ layout: default
 title: Iceland Curated
 ---
 
-*Curated by a local Icelander to help you navigate Iceland like an insider.*
-
----
-
 
 {% include emergency.md %}
 
@@ -38,7 +34,7 @@ title: Iceland Curated
 
 ## About
 
-This directory is maintained by a local Icelander who lives here year-round. Unlike commercial tourism sites, this site focuses on useful resources for visitors in Iceland. Just honest recommendations.
+This directory is maintained by a local Icelander who lives here year-round. This site focuses on useful resources for visitors in Iceland. Just honest recommendations.
 
 All links are verified before being added and checked periodically for availability.
 
