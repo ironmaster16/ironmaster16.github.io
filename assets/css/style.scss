@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 /* ========================================
-   MIDNIGHT SUN COLOR SCHEME
-   Deep Slate, Warm Amber, Coral Pink
+   PROFESSIONAL ICELAND COLOR SCHEME
+   Deep Slate, Steel Blue, Light Steel
    ======================================== */
 
 /* Header - Deep Slate */
@@ -15,7 +15,7 @@
 }
 
 .project-name {
-  color: #f39c12; /* Warm amber */
+  color: #3498db; /* Steel blue */
 }
 
 .project-tagline {
@@ -48,18 +48,18 @@
    TYPOGRAPHY & SPACING
    ======================================== */
 
-/* Section headers - Warm Amber */
+/* Section headers - Steel Blue */
 .main-content h2 {
-  color: #f39c12;
-  border-bottom: 2px solid #f39c12;
+  color: #3498db;
+  border-bottom: 2px solid #3498db;
   padding-bottom: 0.5rem;
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
 }
 
-/* Subsection headers - Coral Pink */
+/* Subsection headers - Light Steel */
 .main-content h3 {
-  color: #e67e73;
+  color: #5dade2;
   margin-top: 1.8rem;
   margin-bottom: 1rem;
   font-weight: 600;
@@ -86,17 +86,17 @@
    LINKS & HOVER EFFECTS
    ======================================== */
 
-/* Links - Warm Amber */
+/* Links - Steel Blue */
 .main-content a {
-  color: #f39c12;
+  color: #3498db;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.3s ease;
 }
 
 .main-content a:hover {
-  color: #e67e73; /* Coral pink on hover */
-  border-bottom: 1px solid #e67e73;
+  color: #5dade2; /* Light steel on hover */
+  border-bottom: 1px solid #5dade2;
 }
 
 /* ========================================
@@ -107,7 +107,7 @@
 .main-content hr {
   border: 0;
   height: 2px;
-  background: linear-gradient(to right, #f39c12, #e67e73, #f39c12);
+  background: linear-gradient(to right, #3498db, #5dade2, #3498db);
   margin: 3rem 0;
   opacity: 0.5;
 }
@@ -123,16 +123,16 @@
 
 /* Footer styling */
 .site-footer {
-  border-top: 2px solid #f39c12;
+  border-top: 2px solid #3498db;
   padding-top: 2rem;
   margin-top: 3rem;
   color: #666;
 }
 
 .site-footer a {
-  color: #e67e73;
+  color: #5dade2;
 }
 
 .site-footer a:hover {
-  color: #f39c12;
+  color: #3498db;
 }
