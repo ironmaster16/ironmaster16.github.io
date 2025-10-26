@@ -4,18 +4,18 @@
 @import "{{ site.theme }}";
 
 /* ========================================
-   NORTHERN LIGHTS COLOR SCHEME
-   Deep Midnight Blue, Aurora Green, Violet Purple
+   MIDNIGHT SUN COLOR SCHEME
+   Deep Slate, Warm Amber, Coral Pink
    ======================================== */
 
-/* Header - Deep Midnight Blue */
+/* Header - Deep Slate */
 .page-header {
-  background-color: #1a2332;
-  background-image: linear-gradient(120deg, #0f1823, #1a2332);
+  background-color: #2c3e50;
+  background-image: linear-gradient(120deg, #1a252f, #2c3e50);
 }
 
 .project-name {
-  color: #00d9b8; /* Aurora green */
+  color: #f39c12; /* Warm amber */
 }
 
 .project-tagline {
@@ -48,18 +48,18 @@
    TYPOGRAPHY & SPACING
    ======================================== */
 
-/* Section headers - Aurora Green */
+/* Section headers - Warm Amber */
 .main-content h2 {
-  color: #00d9b8;
-  border-bottom: 2px solid #00d9b8;
+  color: #f39c12;
+  border-bottom: 2px solid #f39c12;
   padding-bottom: 0.5rem;
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
 }
 
-/* Subsection headers - Violet Purple */
+/* Subsection headers - Coral Pink */
 .main-content h3 {
-  color: #a78bfa;
+  color: #e67e73;
   margin-top: 1.8rem;
   margin-bottom: 1rem;
   font-weight: 600;
@@ -86,17 +86,17 @@
    LINKS & HOVER EFFECTS
    ======================================== */
 
-/* Links - Aurora Green */
+/* Links - Warm Amber */
 .main-content a {
-  color: #00d9b8;
+  color: #f39c12;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.3s ease;
 }
 
 .main-content a:hover {
-  color: #a78bfa; /* Violet purple on hover */
-  border-bottom: 1px solid #a78bfa;
+  color: #e67e73; /* Coral pink on hover */
+  border-bottom: 1px solid #e67e73;
 }
 
 /* ========================================
@@ -107,7 +107,7 @@
 .main-content hr {
   border: 0;
   height: 2px;
-  background: linear-gradient(to right, #00d9b8, #a78bfa, #00d9b8);
+  background: linear-gradient(to right, #f39c12, #e67e73, #f39c12);
   margin: 3rem 0;
   opacity: 0.5;
 }
@@ -123,16 +123,16 @@
 
 /* Footer styling */
 .site-footer {
-  border-top: 2px solid #00d9b8;
+  border-top: 2px solid #f39c12;
   padding-top: 2rem;
   margin-top: 3rem;
   color: #666;
 }
 
 .site-footer a {
-  color: #a78bfa;
+  color: #e67e73;
 }
 
 .site-footer a:hover {
-  color: #00d9b8;
+  color: #f39c12;
 }
