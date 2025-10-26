@@ -30,8 +30,6 @@ title: Iceland Curated
 
 {% include parks.md %}
 
-{% include other.md %}
-
 ---
 
 {% include tourist_news.md %}

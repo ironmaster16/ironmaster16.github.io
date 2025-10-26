@@ -71,6 +71,181 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 
 ## Other / Uncategorized
 
+- [ ] **<a href="https://island.is/s/fiskistofa" target="_blank">Directorate of Fisheries</a>** - Fishing permits, regulations, and information for recreational fishing.
+  - Found: 2025-10-26
+  - Source: Moved from deleted "Other Resources" category
+  - Notes: Decide if this belongs in Practical or is too niche
+
+---
+
+## Swimming Pools & Hot Springs
+
+- [ ] **<a href="https://sundlaugar.is/en/" target="_blank">Sundlaugar.is</a>** - Complete database of all public swimming pools in Iceland with locations, hours, and facilities.
+  - Found: 2025-10-26
+  - Source: User recommendation
+  - Notes: PRIORITY - Iceland's social/cultural cornerstone, cheap activity
+
+- [ ] **<a href="https://www.laugardalslaug.is/en" target="_blank">Laugardalslaug</a>** - Reykjavik's largest public pool with Olympic-size pool, hot tubs, steam room, and water slides.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Most popular pool in Reykjavik
+
+- [ ] **<a href="https://reykjavik.is/stadir/sundholl-reykjavikur" target="_blank">Sundhöllin</a>** - Historic downtown Reykjavik pool, oldest in the city (1937).
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Central location, cultural significance
+
+- [ ] **<a href="https://www.secretlagoon.is/" target="_blank">Secret Lagoon</a>** - Natural hot spring pool in Flúðir, less touristy alternative to Blue Lagoon.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Budget-friendly natural geothermal experience
+
+- [ ] **<a href="https://www.jardbodin.is/en/" target="_blank">Mývatn Nature Baths</a>** - Geothermal lagoon in North Iceland, Blue Lagoon alternative.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: North Iceland highlight
+
+- [ ] **<a href="https://visitreykjadalur.is/" target="_blank">Reykjadalur Hot Spring</a>** - Natural hot river you can bathe in, 3.5km hike from Hveragerði.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Free, popular day hike + bathing
+
+---
+
+## Dining & Food
+
+- [ ] **<a href="https://hlemmurmatholl.is/en/" target="_blank">Hlemmur Mathöll</a>** - Food hall in downtown Reykjavik with diverse vendors, open until late.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: PRIORITY - budget-friendly, variety, local favorite
+
+- [ ] **<a href="https://grandimatholl.is/" target="_blank">Grandi Mathöll</a>** - Food hall in Grandi harbor area with 8 food stalls.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: PRIORITY - newer food hall, waterfront location
+
+- [ ] **<a href="https://bbp.is/en/" target="_blank">Bæjarins Beztu Pylsur</a>** - Famous hot dog stand in Reykjavik since 1937.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Iconic cheap eat, cultural experience
+
+- [ ] **<a href="https://www.visitreykjavik.is/restaurants" target="_blank">Visit Reykjavik Restaurants</a>** - Official restaurant guide and search for Reykjavik.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Low-maintenance platform approach
+
+- [ ] **<a href="https://grapevine.is/mag/best-of-iceland/" target="_blank">Grapevine Best Of</a>** - Annual "Best of Reykjavik" awards including restaurants, bars, and food categories.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Regularly updated, English, trusted source
+
+- [ ] **<a href="https://www.bakari.is/" target="_blank">Brauð & Co</a>** - Highly-rated bakery chain with multiple Reykjavik locations.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Budget breakfast option, very popular
+
+- [ ] **<a href="https://sandholt.is/en/" target="_blank">Sandholt Bakery</a>** - Historic bakery in downtown Reykjavik since 1920.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Tourist-friendly, central location
+
+- [ ] **<a href="https://www.reykjavikfoodwalk.com/" target="_blank">Reykjavik Food Walk</a>** - Guided food tours of Reykjavik.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Food tour option for those who want guided experience
+
+---
+
+## Shopping & Malls
+
+- [ ] **<a href="https://www.kringlan.is/en" target="_blank">Kringlan</a>** - Reykjavik's largest shopping mall with 180+ stores, food court, and cinema.
+  - Found: 2025-10-26
+  - Source: User request
+  - Notes: PRIORITY - major shopping destination
+
+- [ ] **<a href="https://www.smaralind.is/en/" target="_blank">Smáralind</a>** - Second-largest mall in greater Reykjavik area (Kópavogur).
+  - Found: 2025-10-26
+  - Source: User request
+  - Notes: PRIORITY - comprehensive shopping
+
+- [ ] **<a href="https://laugavegur.is/" target="_blank">Laugavegur</a>** - Reykjavik's main shopping street with boutiques, shops, and restaurants.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Tourist shopping area info
+
+- [ ] **<a href="https://www.kolaportid.is/" target="_blank">Kolaportið Flea Market</a>** - Weekend flea market in Reykjavik harbor, Saturdays and Sundays.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Cultural experience, local goods, cheap food
+
+---
+
+## Outdoor Activities & Camping
+
+- [ ] **<a href="https://www.ust.is/english/camping-in-iceland/" target="_blank">Camping in Iceland</a>** - Official Environment Agency camping rules, locations, and guidelines.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: PRIORITY - official source for camping regulations
+
+- [ ] **<a href="https://www.campsites.is/" target="_blank">Campsites.is</a>** - Directory of campsites across Iceland with booking.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Practical camping resource
+
+- [ ] **<a href="https://www.icetrails.org/" target="_blank">Hiking Trails Iceland</a>** - Hiking trail database and information.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Trail planning resource
+
+- [ ] **<a href="https://www.mountainguides.is/" target="_blank">Mountain Guides of Iceland</a>** - Certified mountain and glacier guides association.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Glacier hiking, ice climbing tours
+
+- [ ] **<a href="https://www.adventures.is/" target="_blank">Arctic Adventures</a>** - Major tour operator for glacier hiking, ice caves, snorkeling, and outdoor activities.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Check if too commercial or actually useful
+
+- [ ] **<a href="https://guidetoiceland.is/book-holiday-trips/glacier-hiking" target="_blank">Glacier Hiking Tours</a>** - Aggregator of glacier hiking tour options.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Low-maintenance platform approach
+
+- [ ] **<a href="https://www.lonelyplanet.com/iceland/activities/whale-watching/a/poi-act/1524168/1324647" target="_blank">Whale Watching Iceland</a>** - Whale watching information and operators.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Consider better source than Lonely Planet
+
+- [ ] **<a href="https://www.eldhestar.is/en/" target="_blank">Eldhestar</a>** - Icelandic horse riding tours, one of Iceland's largest and most established operators.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Horse riding is uniquely Icelandic
+
+---
+
+## Practical Services (Additional)
+
+- [ ] **<a href="https://www.utilif.is/" target="_blank">Utility WiFi Locations</a>** - Public WiFi locations in Reykjavik.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Practical for budget travelers - CHECK IF STILL ACTIVE
+
+- [ ] **<a href="https://en.vedur.is/about-vi/useful-phrases-in-icelandic/" target="_blank">Useful Icelandic Phrases</a>** - Basic Icelandic language guide from Met Office.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Practical cultural resource
+
+- [ ] **<a href="https://www.utilif.is/thjonusta/thvottahus" target="_blank">Laundromats in Reykjavik</a>** - Laundry service locations.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Practical for longer-stay tourists - VERIFY URL
+
+- [ ] **<a href="https://www.icelandictipjar.com/" target="_blank">Tipping in Iceland Guide</a>** - Tipping customs and etiquette.
+  - Found: 2025-10-26
+  - Source: Analysis
+  - Notes: Common tourist question - CHECK IF EXISTS
+
 ---
 
 ## Reviewed & Rejected
