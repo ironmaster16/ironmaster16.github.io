@@ -4,18 +4,18 @@
 @import "{{ site.theme }}";
 
 /* ========================================
-   ICELAND NATURE COLOR SCHEME
-   Volcanic Black, Glacier Blue, Moss Green
+   NORTHERN LIGHTS COLOR SCHEME
+   Deep Midnight Blue, Aurora Green, Violet Purple
    ======================================== */
 
-/* Header - Volcanic Black */
+/* Header - Deep Midnight Blue */
 .page-header {
-  background-color: #2b2b2b;
-  background-image: linear-gradient(120deg, #1a1a1a, #2b2b2b);
+  background-color: #1a2332;
+  background-image: linear-gradient(120deg, #0f1823, #1a2332);
 }
 
 .project-name {
-  color: #87c5d6; /* Glacier blue */
+  color: #00d9b8; /* Aurora green */
 }
 
 .project-tagline {
@@ -48,18 +48,18 @@
    TYPOGRAPHY & SPACING
    ======================================== */
 
-/* Section headers - Glacier Blue */
+/* Section headers - Aurora Green */
 .main-content h2 {
-  color: #87c5d6;
-  border-bottom: 2px solid #87c5d6;
+  color: #00d9b8;
+  border-bottom: 2px solid #00d9b8;
   padding-bottom: 0.5rem;
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
 }
 
-/* Subsection headers - Moss Green */
+/* Subsection headers - Violet Purple */
 .main-content h3 {
-  color: #6b9a76;
+  color: #a78bfa;
   margin-top: 1.8rem;
   margin-bottom: 1rem;
   font-weight: 600;
@@ -86,17 +86,17 @@
    LINKS & HOVER EFFECTS
    ======================================== */
 
-/* Links - Glacier Blue */
+/* Links - Aurora Green */
 .main-content a {
-  color: #87c5d6;
+  color: #00d9b8;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.3s ease;
 }
 
 .main-content a:hover {
-  color: #6b9a76; /* Moss green on hover */
-  border-bottom: 1px solid #6b9a76;
+  color: #a78bfa; /* Violet purple on hover */
+  border-bottom: 1px solid #a78bfa;
 }
 
 /* ========================================
@@ -107,7 +107,7 @@
 .main-content hr {
   border: 0;
   height: 2px;
-  background: linear-gradient(to right, #87c5d6, #6b9a76, #87c5d6);
+  background: linear-gradient(to right, #00d9b8, #a78bfa, #00d9b8);
   margin: 3rem 0;
   opacity: 0.5;
 }
@@ -123,16 +123,16 @@
 
 /* Footer styling */
 .site-footer {
-  border-top: 2px solid #87c5d6;
+  border-top: 2px solid #00d9b8;
   padding-top: 2rem;
   margin-top: 3rem;
   color: #666;
 }
 
 .site-footer a {
-  color: #6b9a76;
+  color: #a78bfa;
 }
 
 .site-footer a:hover {
-  color: #87c5d6;
+  color: #00d9b8;
 }
