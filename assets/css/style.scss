@@ -15,7 +15,7 @@
 }
 
 .project-name {
-  color: #AE8E1C; /* Gold */
+  color: #CBA135; /* Warm gold */
 }
 
 .project-tagline {
@@ -57,9 +57,9 @@
   margin-bottom: 1.5rem;
 }
 
-/* Subsection headers - Gold */
+/* Subsection headers - Sage Green */
 .main-content h3 {
-  color: #AE8E1C;
+  color: #678D58;
   margin-top: 1.8rem;
   margin-bottom: 1rem;
   font-weight: 600;
@@ -86,9 +86,9 @@
    LINKS & HOVER EFFECTS
    ======================================== */
 
-/* Links - Gold */
+/* Links - Warm Gold */
 .main-content a {
-  color: #AE8E1C;
+  color: #CBA135;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.3s ease;
@@ -107,7 +107,7 @@
 .main-content hr {
   border: 0;
   height: 2px;
-  background: linear-gradient(to right, #9B3D12, #AE8E1C, #9B3D12);
+  background: linear-gradient(to right, #9B3D12, #CBA135, #678D58);
   margin: 3rem 0;
   opacity: 0.5;
 }
@@ -130,9 +130,9 @@
 }
 
 .site-footer a {
-  color: #AE8E1C;
+  color: #CBA135;
 }
 
 .site-footer a:hover {
-  color: #9B3D12;
+  color: #678D58;
 }
