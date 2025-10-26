@@ -3,6 +3,26 @@
 
 @import "{{ site.theme }}";
 
+/* ========================================
+   ICELAND NATURE COLOR SCHEME
+   Volcanic Black, Glacier Blue, Moss Green
+   ======================================== */
+
+/* Header - Volcanic Black */
+.page-header {
+  background-color: #2b2b2b;
+  background-image: linear-gradient(120deg, #1a1a1a, #2b2b2b);
+}
+
+.project-name {
+  color: #87c5d6; /* Glacier blue */
+}
+
+.project-tagline {
+  color: #d0d0d0; /* Light gray for readability */
+  opacity: 0.9;
+}
+
 /* Logo styling */
 .site-logo {
   display: block;
@@ -22,4 +42,97 @@
 /* Adjust tagline spacing after logo */
 .page-header .project-tagline {
   margin-top: 0.5rem;
+}
+
+/* ========================================
+   TYPOGRAPHY & SPACING
+   ======================================== */
+
+/* Section headers - Glacier Blue */
+.main-content h2 {
+  color: #87c5d6;
+  border-bottom: 2px solid #87c5d6;
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Subsection headers - Moss Green */
+.main-content h3 {
+  color: #6b9a76;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+/* Better paragraph spacing */
+.main-content p {
+  margin-bottom: 1.2rem;
+  line-height: 1.7;
+}
+
+/* List spacing */
+.main-content ul,
+.main-content ol {
+  margin-bottom: 1.5rem;
+}
+
+.main-content li {
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+
+/* ========================================
+   LINKS & HOVER EFFECTS
+   ======================================== */
+
+/* Links - Glacier Blue */
+.main-content a {
+  color: #87c5d6;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.main-content a:hover {
+  color: #6b9a76; /* Moss green on hover */
+  border-bottom: 1px solid #6b9a76;
+}
+
+/* ========================================
+   SECTION DIVIDERS
+   ======================================== */
+
+/* Horizontal rules between sections */
+.main-content hr {
+  border: 0;
+  height: 2px;
+  background: linear-gradient(to right, #87c5d6, #6b9a76, #87c5d6);
+  margin: 3rem 0;
+  opacity: 0.5;
+}
+
+/* ========================================
+   VISUAL IMPROVEMENTS
+   ======================================== */
+
+/* Main content background - slight warmth */
+.main-content {
+  background-color: #fafafa;
+}
+
+/* Footer styling */
+.site-footer {
+  border-top: 2px solid #87c5d6;
+  padding-top: 2rem;
+  margin-top: 3rem;
+  color: #666;
+}
+
+.site-footer a {
+  color: #6b9a76;
+}
+
+.site-footer a:hover {
+  color: #87c5d6;
 }
