@@ -85,16 +85,6 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
   - Source: User recommendation
   - Notes: PRIORITY - Iceland's social/cultural cornerstone, cheap activity
 
-- [ ] **<a href="https://www.laugardalslaug.is/en" target="_blank">Laugardalslaug</a>** - Reykjavik's largest public pool with Olympic-size pool, hot tubs, steam room, and water slides.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Most popular pool in Reykjavik
-
-- [ ] **<a href="https://reykjavik.is/stadir/sundholl-reykjavikur" target="_blank">Sundhöllin</a>** - Historic downtown Reykjavik pool, oldest in the city (1937).
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Central location, cultural significance
-
 - [ ] **<a href="https://www.secretlagoon.is/" target="_blank">Secret Lagoon</a>** - Natural hot spring pool in Flúðir, less touristy alternative to Blue Lagoon.
   - Found: 2025-10-26
   - Source: Analysis
@@ -133,11 +123,6 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
   - Found: 2025-10-26
   - Source: Analysis
   - Notes: Low-maintenance platform approach
-
-- [ ] **<a href="https://grapevine.is/mag/best-of-iceland/" target="_blank">Grapevine Best Of</a>** - Annual "Best of Reykjavik" awards including restaurants, bars, and food categories.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Regularly updated, English, trusted source
 
 - [ ] **<a href="https://www.bakari.is/" target="_blank">Brauð & Co</a>** - Highly-rated bakery chain with multiple Reykjavik locations.
   - Found: 2025-10-26
@@ -226,25 +211,10 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 
 ## Practical Services (Additional)
 
-- [ ] **<a href="https://www.utilif.is/" target="_blank">Utility WiFi Locations</a>** - Public WiFi locations in Reykjavik.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Practical for budget travelers - CHECK IF STILL ACTIVE
-
 - [ ] **<a href="https://en.vedur.is/about-vi/useful-phrases-in-icelandic/" target="_blank">Useful Icelandic Phrases</a>** - Basic Icelandic language guide from Met Office.
   - Found: 2025-10-26
   - Source: Analysis
   - Notes: Practical cultural resource
-
-- [ ] **<a href="https://www.utilif.is/thjonusta/thvottahus" target="_blank">Laundromats in Reykjavik</a>** - Laundry service locations.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Practical for longer-stay tourists - VERIFY URL
-
-- [ ] **<a href="https://www.icelandictipjar.com/" target="_blank">Tipping in Iceland Guide</a>** - Tipping customs and etiquette.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Common tourist question - CHECK IF EXISTS
 
 ---
 
@@ -252,8 +222,26 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 
 <!-- Move rejected links here with reason - helps avoid re-adding same link later -->
 
-<!-- Example:
-- **<a href="https://example.is" target="_blank">Example Site</a>**
+- **<a href="https://www.laugardalslaug.is/en" target="_blank">Laugardalslaug</a>**
   - Reviewed: 2025-10-26
-  - Rejected: Affiliate site, not practical value
--->
+  - Rejected: Redundant - sundlaugar.is already provides pool database
+
+- **<a href="https://reykjavik.is/stadir/sundholl-reykjavikur" target="_blank">Sundhöllin</a>**
+  - Reviewed: 2025-10-26
+  - Rejected: Redundant - sundlaugar.is already provides pool database
+
+- **<a href="https://grapevine.is/mag/best-of-iceland/" target="_blank">Grapevine Best Of</a>**
+  - Reviewed: 2025-10-26
+  - Rejected: Annual awards, high maintenance to keep current
+
+- **<a href="https://www.utilif.is/" target="_blank">Utility WiFi Locations</a>**
+  - Reviewed: 2025-10-26
+  - Rejected: utilif.is is a clothing store, not WiFi locations
+
+- **<a href="https://www.utilif.is/thjonusta/thvottahus" target="_blank">Laundromats in Reykjavik</a>**
+  - Reviewed: 2025-10-26
+  - Rejected: utilif.is is a clothing store, incorrect URL
+
+- **<a href="https://www.icelandictipjar.com/" target="_blank">Tipping in Iceland Guide</a>**
+  - Reviewed: 2025-10-26
+  - Rejected: URL doesn't exist, likely made up
