@@ -78,30 +78,6 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 
 ---
 
-## Swimming Pools & Hot Springs
-
-- [ ] **<a href="https://sundlaugar.is/en/" target="_blank">Sundlaugar.is</a>** - Complete database of all public swimming pools in Iceland with locations, hours, and facilities.
-  - Found: 2025-10-26
-  - Source: User recommendation
-  - Notes: PRIORITY - Iceland's social/cultural cornerstone, cheap activity
-
-- [ ] **<a href="https://www.secretlagoon.is/" target="_blank">Secret Lagoon</a>** - Natural hot spring pool in Flúðir, less touristy alternative to Blue Lagoon.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Budget-friendly natural geothermal experience
-
-- [ ] **<a href="https://www.jardbodin.is/en/" target="_blank">Mývatn Nature Baths</a>** - Geothermal lagoon in North Iceland, Blue Lagoon alternative.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: North Iceland highlight
-
-- [ ] **<a href="https://visitreykjadalur.is/" target="_blank">Reykjadalur Hot Spring</a>** - Natural hot river you can bathe in, 3.5km hike from Hveragerði.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Free, popular day hike + bathing
-
----
-
 ## Dining & Food
 
 - [ ] **<a href="https://hlemmurmatholl.is/en/" target="_blank">Hlemmur Mathöll</a>** - Food hall in downtown Reykjavik with diverse vendors, open until late.
@@ -141,36 +117,7 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 
 ---
 
-## Shopping & Malls
-
-- [ ] **<a href="https://www.kringlan.is/en" target="_blank">Kringlan</a>** - Reykjavik's largest shopping mall with 180+ stores, food court, and cinema.
-  - Found: 2025-10-26
-  - Source: User request
-  - Notes: PRIORITY - major shopping destination
-
-- [ ] **<a href="https://www.smaralind.is/en/" target="_blank">Smáralind</a>** - Second-largest mall in greater Reykjavik area (Kópavogur).
-  - Found: 2025-10-26
-  - Source: User request
-  - Notes: PRIORITY - comprehensive shopping
-
-- [ ] **<a href="https://laugavegur.is/" target="_blank">Laugavegur</a>** - Reykjavik's main shopping street with boutiques, shops, and restaurants.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Tourist shopping area info
-
-- [ ] **<a href="https://www.kolaportid.is/" target="_blank">Kolaportið Flea Market</a>** - Weekend flea market in Reykjavik harbor, Saturdays and Sundays.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Cultural experience, local goods, cheap food
-
----
-
 ## Outdoor Activities & Camping
-
-- [ ] **<a href="https://www.ust.is/english/camping-in-iceland/" target="_blank">Camping in Iceland</a>** - Official Environment Agency camping rules, locations, and guidelines.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: PRIORITY - official source for camping regulations
 
 - [ ] **<a href="https://www.campsites.is/" target="_blank">Campsites.is</a>** - Directory of campsites across Iceland with booking.
   - Found: 2025-10-26
@@ -209,15 +156,6 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 
 ---
 
-## Practical Services (Additional)
-
-- [ ] **<a href="https://en.vedur.is/about-vi/useful-phrases-in-icelandic/" target="_blank">Useful Icelandic Phrases</a>** - Basic Icelandic language guide from Met Office.
-  - Found: 2025-10-26
-  - Source: Analysis
-  - Notes: Practical cultural resource
-
----
-
 ## Reviewed & Rejected
 
 <!-- Move rejected links here with reason - helps avoid re-adding same link later -->
@@ -245,3 +183,17 @@ Links found but not yet vetted. Review during weekly/monthly maintenance.
 - **<a href="https://www.icelandictipjar.com/" target="_blank">Tipping in Iceland Guide</a>**
   - Reviewed: 2025-10-26
   - Rejected: URL doesn't exist, likely made up
+
+---
+
+## Published to Main Site
+
+- **Swimming Pools & Hot Springs** (4 links)
+  - Published: 2025-10-26
+  - Location: practical.md - Swimming Pools & Hot Springs subsection
+  - Links: sundlaugar.is, Secret Lagoon, Mývatn Nature Baths, Reykjadalur
+
+- **Shopping & Malls** (4 links)
+  - Published: 2025-10-26
+  - Location: practical.md - Supermarkets & Shopping subsection
+  - Links: Kringlan, Smáralind, Laugavegur, Kolaportið

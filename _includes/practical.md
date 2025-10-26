@@ -18,6 +18,16 @@
 - **<a href="https://bonus.is/" target="_blank">Bónus</a>** - Budget supermarket chain (pink pig logo). Most affordable groceries.
 - **<a href="https://kronan.is/" target="_blank">Kronan</a>** - Mid-range supermarket with good selection across Iceland.
 - **<a href="https://www.hagkaup.is/" target="_blank">Hagkaup</a>** - Premium supermarket chain with wider product selection and specialty items.
+- **<a href="https://www.kringlan.is/en" target="_blank">Kringlan</a>** - Reykjavik's largest shopping mall with 180+ stores, food court, and cinema.
+- **<a href="https://www.smaralind.is/en/" target="_blank">Smáralind</a>** - Second-largest mall in greater Reykjavik area (Kópavogur).
+- **<a href="https://laugavegur.is/" target="_blank">Laugavegur</a>** - Reykjavik's main shopping street with boutiques, shops, and restaurants.
+- **<a href="https://www.kolaportid.is/" target="_blank">Kolaportið Flea Market</a>** - Weekend flea market in Reykjavik harbor, Saturdays and Sundays.
+
+### Swimming Pools & Hot Springs
+- **<a href="https://sundlaugar.is/en/" target="_blank">Sundlaugar.is</a>** - Complete database of all public swimming pools in Iceland with locations, hours, and facilities.
+- **<a href="https://www.secretlagoon.is/" target="_blank">Secret Lagoon</a>** - Natural hot spring pool in Flúðir, less touristy alternative to Blue Lagoon.
+- **<a href="https://www.jardbodin.is/en/" target="_blank">Mývatn Nature Baths</a>** - Geothermal lagoon in North Iceland, Blue Lagoon alternative.
+- **<a href="https://visitreykjadalur.is/" target="_blank">Reykjadalur Hot Spring</a>** - Natural hot river you can bathe in, 3.5km hike from Hveragerði.
 
 ### Fuel Stations
 - **<a href="https://www.n1.is/en" target="_blank">N1</a>** - Iceland's largest fuel station network. Hot dogs, groceries, and 24/7 locations.
