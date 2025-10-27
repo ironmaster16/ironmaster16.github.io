@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 /* ========================================
-   CUSTOM COLOR SCHEME
-   Dark Charcoal, Warm Beige, Rust, Gold
+   SOFT MINIMALIST COLOR SCHEME
+   Dark Charcoal Header, Red Sections, Grey Links
    ======================================== */
 
 /* Header - Dark Charcoal */
@@ -15,7 +15,7 @@
 }
 
 .project-name {
-  color: #CBA135; /* Warm gold */
+  color: #E53935; /* Material red */
 }
 
 .project-tagline {
@@ -48,21 +48,28 @@
    TYPOGRAPHY & SPACING
    ======================================== */
 
-/* Section headers - Rust */
+/* Section headers - Material Red */
 .main-content h2 {
-  color: #9B3D12;
-  border-bottom: 2px solid #9B3D12;
+  color: #E53935;
+  border-bottom: 2px solid #E53935;
   padding-bottom: 0.5rem;
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
 }
 
-/* Subsection headers - Sage Green */
+/* Subsection headers - Material Red */
 .main-content h3 {
-  color: #678D58;
+  color: #E53935;
   margin-top: 1.8rem;
   margin-bottom: 1rem;
   font-weight: 600;
+}
+
+/* Body text - Light grey */
+.main-content p,
+.main-content li,
+.main-content {
+  color: #757575;
 }
 
 /* Better paragraph spacing */
@@ -86,17 +93,17 @@
    LINKS & HOVER EFFECTS
    ======================================== */
 
-/* Links - Warm Gold */
+/* Links - Dark Grey */
 .main-content a {
-  color: #CBA135;
+  color: #3E3E3E;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.3s ease;
 }
 
 .main-content a:hover {
-  color: #9B3D12; /* Rust on hover */
-  border-bottom: 1px solid #9B3D12;
+  color: #000000; /* Black on hover */
+  border-bottom: 1px solid #000000;
 }
 
 /* ========================================
@@ -107,7 +114,7 @@
 .main-content hr {
   border: 0;
   height: 2px;
-  background: linear-gradient(to right, #9B3D12, #CBA135, #678D58);
+  background: linear-gradient(to right, #E53935, #757575, #E53935);
   margin: 3rem 0;
   opacity: 0.5;
 }
@@ -116,23 +123,23 @@
    VISUAL IMPROVEMENTS
    ======================================== */
 
-/* Main content background - warm beige */
+/* Main content background - very light grey */
 .main-content {
-  background-color: #F5EFED;
+  background-color: #FAFAFA;
 }
 
 /* Footer styling */
 .site-footer {
-  border-top: 2px solid #9B3D12;
+  border-top: 2px solid #E53935;
   padding-top: 2rem;
   margin-top: 3rem;
-  color: #666;
+  color: #757575;
 }
 
 .site-footer a {
-  color: #CBA135;
+  color: #3E3E3E;
 }
 
 .site-footer a:hover {
-  color: #678D58;
+  color: #000000;
 }
