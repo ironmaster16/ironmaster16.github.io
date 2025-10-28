@@ -1,10 +1,10 @@
 ## News for Tourists
 
-*Last updated: 2025-10-28 07:08*
+*Last updated: 2025-10-28 14:34*
 
-- <a href="https://nyr.ruv.is/english/2025-10-27-considerable-snowfall-expected-in-capital-and-southwest-457234/" target="_blank">Considerable snowfall expected in capital and southwest</a> <small>RUV English • Oct 27</small>
-- <a href="https://grapevine.is/news/2025/10/27/heavy-snowfall-expected-this-week/" target="_blank">Heavy Snowfall Expected This Week</a> <small>Grapevine • Oct 27</small>
-- <a href="https://grapevine.is/best-of-reykjavik/2025/10/27/best-of-reykjavik-2025-best-late-night-bite/" target="_blank">Best Of Reykjavík 2025: Best Late Night Bite</a> <small>Grapevine • Oct 27</small>
-- <a href="https://nyr.ruv.is/english/2025-10-27-deal-boosts-tourism-hopes-for-iceland-and-new-zealand-457217/" target="_blank">Deal boosts tourism hopes for Iceland and New Zealand</a> <small>RUV English • Oct 27</small>
-- <a href="https://nyr.ruv.is/english/2025-10-28-westfjords-power-back-to-normal-after-short-cut-457292/" target="_blank">Westfjords power back to normal after short cut</a> <small>RUV English • Oct 28</small>
-- <a href="https://nyr.ruv.is/english/2025-10-28-health-authorities-close-restaurant-for-second-time-457297/" target="_blank">Health authorities close restaurant for second time</a> <small>RUV English • Oct 28</small>
+- <a href="https://www.icelandreview.com/news/icelandic-road-administration-urges-caution-amid-early-winter-conditions/" target="_blank">Icelandic Road Administration Urges Caution Amid Early Winter Conditions</a> <small>Iceland Review • Oct 28</small>
+- <a href="https://www.ruv.is/english/2025-10-28-capital-wakes-to-snow-as-yellow-warnings-approach-early-457302/" target="_blank">Capital wakes to snow as yellow warnings approach early</a> <small>RUV English • Oct 28</small>
+- <a href="https://www.ruv.is/english/2025-10-28-winter-hits-and-orange-warnings-live-blog-457337/" target="_blank">Winter hits and orange warnings - live blog</a> <small>RUV English • Oct 28</small>
+- <a href="https://www.ruv.is/english/2025-10-22-ruv-english-radio-glaumbaer-456882/" target="_blank">RÚV English Radio - GLAUMBÆR</a> <small>RUV English • Oct 22</small>
+- <a href="https://www.ruv.is/english/2025-10-22-midnight-mass-this-friday-at-adventkirkjan-456856/" target="_blank">Midnight mass this Friday at Aðventkirkjan</a> <small>RUV English • Oct 22</small>
+- <a href="https://www.ruv.is/english/2025-10-22-reports-from-public-essential-to-avian-flu-monitoring-456833/" target="_blank">Reports from public &#x27;essential&#x27; to avian flu monitoring</a> <small>RUV English • Oct 22</small>
