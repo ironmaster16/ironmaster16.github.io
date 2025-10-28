@@ -7,7 +7,6 @@
 - **<a href="https://www.whatson.is/" target="_blank">What's On</a>** - Events calendar for concerts, festivals, exhibitions, and cultural happenings across Iceland.
 - **<a href="https://events.grapevine.is/" target="_blank">Grapevine Events</a>** - English-language event listings in Reykjavik and around Iceland. Search by date and category.
 - **<a href="https://www.eventa.is" target="_blank">Eventa.is</a>** - Events calendar for Iceland.
-- **<a href="https://handpickediceland.is" target="_blank">Handpickediceland.is</a>** - Curated travel guide and recommendations.
 - **<a href="https://www.sambio.is/" target="_blank">Sambíóin</a>** - Iceland's largest cinema chain with locations in Reykjavik (Álfabakki, Egilshöll, Kringlan) and Akureyri.
 - **<a href="https://bioparadis.is/" target="_blank">Bíó Paradís</a>** - Arthouse cinema in downtown Reykjavik. Independent films, classics, and film festivals with English subtitles.
 - **<a href="https://leikhusid.is/" target="_blank">Þjóðleikhúsið (National Theatre)</a>** - Iceland's National Theatre at Hverfisgata 19. Productions in Icelandic with ticket office open 14-18 on weekdays.
@@ -19,8 +18,5 @@
 
 ### 📱 Apps
 
-- **Kringum** - Discover hidden gems beyond tourist stops with stories and guides.
-- **Handpicked Iceland** - Curated recommendations for things to do, places to stay, eat.
-- **GetYourGuide** - Book tours and activities.
 - **Krimmi** - Interactive crime novel game using real locations.
 - **Klappið** - Icelandic events and entertainment.

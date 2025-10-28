@@ -14,6 +14,8 @@ title: Iceland Curated
 
 {% include parks.md %}
 
+{% include tours-activities.md %}
+
 {% include accommodation.md %}
 
 {% include dining.md %}

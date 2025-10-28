@@ -1,5 +1,7 @@
 ## Culture & Museums
 
+### 🌐 Websites
+
 - **<a href="https://www.thjodminjasafn.is/" target="_blank">National Museum of Iceland</a>** - Iceland's main cultural heritage museum at Suðurgata 41. Permanent exhibition covering 1200 years of history from settlement to present. Open daily 10-17.
 - **<a href="https://perlan.is/" target="_blank">Perlan Museum</a>** - Interactive nature museum in iconic dome building. Real ice cave, northern lights planetarium, glacier and volcano exhibits. Open daily 9-21.
 - **<a href="https://lavacentre.is/" target="_blank">LAVA Centre</a>** - Interactive volcano and earthquake exhibition in Hvolsvöllur, South Iceland. Explore Iceland's volcanic systems through interactive displays and cinema.
@@ -16,3 +18,4 @@
 - **<a href="https://www.natt.is/is" target="_blank">Icelandic Institute of Natural History</a>** - Natural history collections, exhibitions, and research. Geological maps, biodiversity data, and educational programs.
 - **<a href="https://www.phallus.is/" target="_blank">Icelandic Phallological Museum</a>** - World's only penis museum with specimens from various species. Includes café and gift shop. Open daily 10-19.
 - **<a href="https://galdrasyning.is/en/" target="_blank">Museum of Sorcery & Witchcraft</a>** - Unique museum in Hólmavík exploring Iceland's magical history.
+- **<a href="https://islendingabok.is/english" target="_blank">Íslendingaapp</a>** - "Book of Icelanders" database - cultural curiosity. Check if you're related to other Icelanders or your Icelandic friends.

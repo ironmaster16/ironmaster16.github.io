@@ -12,7 +12,6 @@
 
 **Road Conditions:**
 - **<a href="https://umferdin.is/en" target="_blank">Road.is</a>** - Live road conditions, closures, and webcams across Iceland. Check before every drive.
-- **<a href="https://umferdin.is" target="_blank">Umferdin.is</a>** - Up-to-date road closure information.
 - **<a href="https://vegasja.vegagerdin.is" target="_blank">Vegasja.vegagerdin.is</a>** - Shows which roads are paved vs unpaved.
 
 **Natural Hazards:**

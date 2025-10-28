@@ -10,8 +10,6 @@
 #### General Services
 - **<a href="https://ja.is/" target="_blank">Já.is</a>** - Icelandic phone directory and business listings. The local "yellow pages."
 - **<a href="https://visitreykjavik.is/" target="_blank">Visit Reykjavik</a>** - Capital city's official guide. Events, restaurants, and city maps.
-- **<a href="https://guidetoiceland.is/" target="_blank">Guide to Iceland</a>** - Large travel marketplace for tours, cars, and accommodations.
-- **<a href="https://www.ferdalag.is/" target="_blank">Ferdalag.is</a>** - Icelandic Touring Association. Hiking tours and mountain huts.
 #### Mobile & Internet
 - **<a href="https://www.siminn.is:443/english/prepaid" target="_blank">Síminn Prepaid SIM</a>** - Iceland's largest telecom. Tourist SIM cards with data plans available at airport and stores.
 - **<a href="https://www.syn.is/en" target="_blank">Vodafone Iceland</a>** - Alternative prepaid SIM options with good coverage.
@@ -26,23 +24,6 @@
 - **<a href="https://laugavegur.is/" target="_blank">Laugavegur</a>** - Reykjavik's main shopping street with boutiques, shops, and restaurants.
 - **<a href="https://www.kolaportid.is/" target="_blank">Kolaportið Flea Market</a>** - Weekend flea market in Reykjavik harbor, Saturdays and Sundays.
 
-#### Swimming Pools & Hot Springs
-- **<a href="https://sundlaugar.is/en/" target="_blank">Sundlaugar.is</a>** - Complete database of all public swimming pools in Iceland with locations, hours, and facilities.
-- **<a href="https://www.bluelagoon.com/" target="_blank">Blue Lagoon</a>** - Iceland's most famous geothermal spa. Online booking and visitor information.
-- **<a href="https://www.secretlagoon.is/" target="_blank">Secret Lagoon</a>** - Natural hot spring pool in Flúðir, less touristy alternative to Blue Lagoon.
-- **<a href="https://www.jardbodin.is/en/" target="_blank">Mývatn Nature Baths</a>** - Geothermal lagoon in North Iceland, Blue Lagoon alternative.
-- **<a href="https://visitreykjadalur.is/" target="_blank">Reykjadalur Hot Spring</a>** - Natural hot river you can bathe in, 3.5km hike from Hveragerði.
-
-#### Fuel & Charging
-- **<a href="https://www.n1.is/en" target="_blank">N1</a>** - Iceland's largest fuel station network. Hot dogs, groceries, and 24/7 locations.
-- **<a href="https://www.olis.is/" target="_blank">Olís</a>** - Major gas station chain with locations across Iceland. Fuel, convenience stores, and car services.
-- **<a href="https://bensinverd.is" target="_blank">Bensinverð.is</a>** - Compare gas prices across Iceland.
-- **<a href="https://gasvaktin.is" target="_blank">Gasvaktin.is</a>** - Find cheapest gas stations.
-- **<a href="https://www.veggjald.is/en" target="_blank">Veggjald.is</a>** - Tunnel toll information and payment.
-
-#### Parking
-- **<a href="https://checkit.is" target="_blank">Checkit.is</a>** - Parking payment at some sites.
-
 #### Camping
 - **<a href="https://tjalda.is" target="_blank">Tjalda.is</a>** - Complete campsite database.
 
@@ -51,29 +32,9 @@
 - **<a href="https://posturinn.is/en/" target="_blank">Íslandspóstur</a>** - Iceland Post. Postal services, parcel shipping, and business hours.
 - **<a href="https://www.vinbudin.is/english/home/opnunartimar#map" target="_blank">Vinbúðin</a>** - State-run alcohol stores (only place to buy alcohol over 2.25%). Store locator and hours.
 - **<a href="https://island.is/en" target="_blank">Island.is</a>** - Official digital government portal for public services, permits, and visitor information.
-- **<a href="https://www.icelandicmountainguides.is/" target="_blank">Icelandic Mountain Guides</a>** - Professional glacier hiking, ice climbing, and mountaineering tours.
-- **<a href="https://islendingabok.is/english" target="_blank">Íslendingaapp</a>** - "Book of Icelanders" app - cultural curiosity. Check if you're related to other Icelanders or your Icelandic friends.
+- **<a href="https://endurvinnslan.is/english/" target="_blank">Endurvinnslan</a>** - Bottle and can recycling deposit return locations across Iceland.
 
 ### 📱 Apps
-
-#### Navigation & Maps
-- **Google Maps** - Main navigation (download offline maps for all of Iceland before traveling).
-- **Maps.me** - Offline maps for Iceland.
-- **Waze** - Real-time traffic and backup navigation.
-- **Citymapper** - Public transit and walking directions in Reykjavik.
-- **AllTrails** - Hiking trail maps and guides.
-- **iOverlander** - Trail maps and points of interest.
-- **GPS Tracks** - Create GPS trail record of your journey.
-
-#### Parking
-- **Parka** - Parking payment at attractions (IMPORTANT: Setup payment card before traveling - many users report issues setting up on-site).
-- **EasyPark** - Parking payment in Reykjavik.
-
-#### Fuel & Charging
-- **Bensin** - Find cheapest fuel prices.
-- **Orkan** - Fuel station app with member discounts.
-- **ON** - EV charging payment (setup credit card before departure).
-- **Isorka** - EV charging payment (setup credit card before departure).
 
 #### Utilities
 - **Google Translate** - Camera translation for grocery labels and signs.
@@ -83,5 +44,5 @@
 - **TripIt** - Trip planning and itinerary organization.
 - **Airalo** - eSIM for international travelers (not needed for EEA residents).
 - **MobiMatter** - Buy local SIM cards.
-- **Endurvinnslan** - Bottle and can recycling for deposit returns.
+- **Endurvinnslan** - Bottle and can recycling app - get deposit money sent directly to your bank account.
 - **Label Icelandic** - Learn Icelandic language course.
