@@ -19,4 +19,3 @@
 ### 📱 Apps
 
 - **Krimmi** - Interactive crime novel game using real locations.
-- **Klappið** - Icelandic events and entertainment.

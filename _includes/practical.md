@@ -28,6 +28,7 @@
 - **<a href="https://tjalda.is" target="_blank">Tjalda.is</a>** - Complete campsite database.
 
 #### Other Services
+- **<a href="https://sundlaugar.is/en/" target="_blank">Sundlaugar.is</a>** - Complete database of all public swimming pools in Iceland with locations, hours, and facilities.
 - **<a href="https://www.lyfogheilsa.is/" target="_blank">Lyf og heilsa</a>** - Iceland's largest pharmacy chain for medications and health products.
 - **<a href="https://posturinn.is/en/" target="_blank">Íslandspóstur</a>** - Iceland Post. Postal services, parcel shipping, and business hours.
 - **<a href="https://www.vinbudin.is/english/home/opnunartimar#map" target="_blank">Vinbúðin</a>** - State-run alcohol stores (only place to buy alcohol over 2.25%). Store locator and hours.

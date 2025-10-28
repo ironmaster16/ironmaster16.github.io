@@ -10,8 +10,7 @@
 - **<a href="https://www.ust.is/english" target="_blank">Environment Agency of Iceland</a>** - Nature conservation, visitor guidelines, and environmental protection.
 - **<a href="https://www.natt.is/en" target="_blank">Landmælingar Íslands</a>** - National Land Survey with topographic maps and hiking trail information.
 
-#### Swimming Pools & Hot Springs
-- **<a href="https://sundlaugar.is/en/" target="_blank">Sundlaugar.is</a>** - Complete database of all public swimming pools in Iceland with locations, hours, and facilities.
+#### Geothermal Nature Baths & Hot Springs
 - **<a href="https://www.bluelagoon.com/" target="_blank">Blue Lagoon</a>** - Iceland's most famous geothermal spa. Online booking and visitor information.
 - **<a href="https://www.secretlagoon.is/" target="_blank">Secret Lagoon</a>** - Natural hot spring pool in Flúðir, less touristy alternative to Blue Lagoon.
 - **<a href="https://www.jardbodin.is/en/" target="_blank">Mývatn Nature Baths</a>** - Geothermal lagoon in North Iceland, Blue Lagoon alternative.
