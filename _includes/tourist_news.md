@@ -1,6 +1,6 @@
 ## News for Tourists
 
-*Last updated: 2025-10-29 18:08*
+*Last updated: 2025-10-30 07:05*
 
 - <a href="https://www.icelandreview.com/news/icelandic-road-administration-urges-caution-amid-early-winter-conditions/" target="_blank">Icelandic Road Administration Urges Caution Amid Early Winter Conditions</a> <small>Iceland Review • Oct 28</small>
 - <a href="https://www.ruv.is/english/2025-10-28-capital-wakes-to-snow-as-yellow-warnings-approach-early-457302/" target="_blank">Capital wakes to snow as yellow warnings approach early</a> <small>RUV English • Oct 28</small>
