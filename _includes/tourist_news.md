@@ -1,9 +1,9 @@
 ## News for Tourists
 
-*Last updated: 2025-10-31 07:20*
+*Last updated: 2025-10-31 12:19*
 
-- <a href="https://www.ruv.is/english/2025-10-31-ruv-english-radio-audskilid-cars-v-buses-in-simple-icelandic-457748/" target="_blank">RÚV English Radio - AUÐSKILIÐ - CARS v BUSES, in simple Icelandic</a> <small>RUV English • Oct 31</small>
-- <a href="https://www.ruv.is/english/2025-10-31-trio-of-halloween-treats-on-ruv-457746/" target="_blank">Trio of Halloween treats on RÚV</a> <small>RUV English • Oct 31</small>
-- <a href="https://www.icelandreview.com/news/stricter-study-permit-rules-for-non-eea-students/" target="_blank">Stricter Study Permit Rules For Non-EEA Students</a> <small>Iceland Review • Oct 30</small>
-- <a href="https://www.ruv.is/english/2025-10-31-housing-co-op-considers-suing-city-over-green-monster-457744/" target="_blank">Housing co-op considers suing city over &quot;green monster&quot;</a> <small>RUV English • Oct 31</small>
-- <a href="https://www.ruv.is/english/2025-10-31-driver-had-40cm-of-snow-on-windscreen-457749/" target="_blank">Driver had 40cm of snow on windscreen</a> <small>RUV English • Oct 31</small>
+- <a href="https://www.icelandreview.com/news/storms-and-ice-disrupt-travel-as-yellow-warning-issued/" target="_blank">Storms and Ice Disrupt Travel as Yellow Warning Issued</a> <small>Iceland Review • Oct 31</small>
+- <a href="https://grapevine.is/news/2025/10/31/ring-road-closed-at-two-locations-in-south-iceland-due-to-high-winds/" target="_blank">Ring Road Closed At Two Locations In South Iceland Due To High Winds</a> <small>Grapevine • Oct 31</small>
+- <a href="https://www.ruv.is/english/2025-10-31-cautious-industry-welcome-for-housing-plans-457751/" target="_blank">Cautious industry welcome for housing plans</a> <small>RUV English • Oct 31</small>
+- <a href="https://www.ruv.is/english/2025-10-31-wrong-tyres-can-affect-accident-insurance-claims-457750/" target="_blank">Wrong tyres can affect accident insurance claims</a> <small>RUV English • Oct 31</small>
+- <a href="https://www.ruv.is/english/2025-10-31-construction-mistaken-for-quakes-457753/" target="_blank">Construction mistaken for quakes</a> <small>RUV English • Oct 31</small>
