@@ -1,10 +1,10 @@
 ## News for Tourists
 
-*Last updated: 2025-10-31 18:41*
+*Last updated: 2025-11-01 07:00*
 
+- <a href="https://www.icelandreview.com/news/road-closures-and-snowstorms-to-hit-iceland/" target="_blank">Road Closures and Snowstorms to Hit Iceland</a> <small>Iceland Review • Oct 30</small>
+- <a href="https://www.icelandreview.com/news/storms-and-ice-disrupt-travel-as-yellow-warning-issued/" target="_blank">Storms and Ice Disrupt Travel as Yellow Warning Issued</a> <small>Iceland Review • Oct 31</small>
+- <a href="https://www.icelandreview.com/news/heavy-snow-causes-flight-chaos-and-cancellations-at-keflavik/" target="_blank">Heavy Snow Causes Flight Chaos and Cancellations at Keflavík</a> <small>Iceland Review • Oct 29</small>
+- <a href="https://www.ruv.is/english/2025-10-29-no-immediate-thaw-and-conditions-remain-tricky-457524/" target="_blank">No immediate thaw and conditions remain tricky</a> <small>RUV English • Oct 29</small>
 - <a href="https://www.ruv.is/english/2025-10-31-icy-roads-and-gale-force-winds-for-many-457782/" target="_blank">Icy roads and gale force winds for many</a> <small>RUV English • Oct 31</small>
-- <a href="https://www.ruv.is/english/2025-10-31-ruv-english-radio-vespers-harpa-457806/" target="_blank">RÚV English Radio - VESPERS, HARPA</a> <small>RUV English • Oct 31</small>
-- <a href="https://grapevine.is/news/2025/10/31/grapevine-events-halloween-parties-a-feast-sex-worker-stories-and-public-policy/" target="_blank">Grapevine Events: Halloween Parties, A Feast, Sex Worker Stories And Public Policy</a> <small>Grapevine • Oct 31</small>
-- <a href="https://www.icelandreview.com/news/isavia-defends-airport-access-policy-amid-criticism-from-sociologist/" target="_blank">Isavia Defends Airport Access Policy Amid Criticism</a> <small>Iceland Review • Oct 31</small>
-- <a href="https://www.icelandreview.com/news/five-icelandic-monsters-for-your-halloween/" target="_blank">Five Icelandic Monsters for Your Halloween</a> <small>Iceland Review • Oct 31</small>
-- <a href="https://www.ruv.is/english/2025-10-31-concern-over-government-inaction-after-closure-of-bakki-silicon-plant-457798/" target="_blank">Concern over government inaction after closure of Bakki silicon plant</a> <small>RUV English • Oct 31</small>
+- <a href="https://grapevine.is/news/2025/10/31/ring-road-closed-at-two-locations-in-south-iceland-due-to-high-winds/" target="_blank">Ring Road Closed At Two Locations In South Iceland Due To High Winds</a> <small>Grapevine • Oct 31</small>
