@@ -1,9 +1,10 @@
 ## News for Tourists
 
-*Last updated: 2025-11-01 12:19*
+*Last updated: 2025-11-01 18:04*
 
+- <a href="https://www.icelandreview.com/news/road-closures-and-snowstorms-to-hit-iceland/" target="_blank">Road Closures and Snowstorms to Hit Iceland</a> <small>Iceland Review • Oct 30</small>
+- <a href="https://www.icelandreview.com/news/storms-and-ice-disrupt-travel-as-yellow-warning-issued/" target="_blank">Storms and Ice Disrupt Travel as Yellow Warning Issued</a> <small>Iceland Review • Oct 31</small>
 - <a href="https://www.icelandreview.com/in-focus/in-focus-staying-safe-on-icelands-winter-roads/" target="_blank">In Focus | Staying Safe on Iceland’s Winter Roads</a> <small>Iceland Review • Nov 01</small>
-- <a href="https://www.icelandreview.com/news/domestic-flights-grounded-across-iceland-yesterday-due-to-severe-winds/" target="_blank">Domestic Flights Grounded Across Iceland Yesterday Due to Severe Winds</a> <small>Iceland Review • Nov 01</small>
-- <a href="https://www.icelandreview.com/news/rescuers-to-renew-effort-to-free-trapped-humpback-in-eyjafjordur/" target="_blank">Rescuers to Renew Effort to Free Trapped Humpback in Eyjafjörður</a> <small>Iceland Review • Nov 01</small>
-- <a href="https://www.icelandreview.com/news/president-cautions-against-screen-times-effect-on-young-minds/" target="_blank">President Cautions Against Screen Time’s Effect on Young Minds</a> <small>Iceland Review • Nov 01</small>
-- <a href="https://www.icelandreview.com/news/yellow-weather-warning-issued-for-strong-winds-in-northwest-iceland/" target="_blank">Yellow Weather Warning Issued for Strong Winds in Northwest Iceland</a> <small>Iceland Review • Nov 01</small>
+- <a href="https://www.ruv.is/english/2025-10-31-icy-roads-and-gale-force-winds-for-many-457782/" target="_blank">Icy roads and gale force winds for many</a> <small>RUV English • Oct 31</small>
+- <a href="https://grapevine.is/news/2025/10/31/ring-road-closed-at-two-locations-in-south-iceland-due-to-high-winds/" target="_blank">Ring Road Closed At Two Locations In South Iceland Due To High Winds</a> <small>Grapevine • Oct 31</small>
+- <a href="https://www.ruv.is/english/2025-10-31-ruv-english-radio-audskilid-cars-v-buses-in-simple-icelandic-457748/" target="_blank">RÚV English Radio - AUÐSKILIÐ - CARS v BUSES, in simple Icelandic</a> <small>RUV English • Oct 31</small>
