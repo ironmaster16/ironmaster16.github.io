@@ -1,6 +1,6 @@
 ## News for Tourists
 
-*Last updated: 2025-11-01 18:04*
+*Last updated: 2025-11-02 07:00*
 
 - <a href="https://www.icelandreview.com/news/road-closures-and-snowstorms-to-hit-iceland/" target="_blank">Road Closures and Snowstorms to Hit Iceland</a> <small>Iceland Review • Oct 30</small>
 - <a href="https://www.icelandreview.com/news/storms-and-ice-disrupt-travel-as-yellow-warning-issued/" target="_blank">Storms and Ice Disrupt Travel as Yellow Warning Issued</a> <small>Iceland Review • Oct 31</small>
