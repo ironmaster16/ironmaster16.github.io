@@ -1,10 +1,8 @@
 ## News for Tourists
 
-*Last updated: 2025-11-03 07:04*
+*Last updated: 2025-11-03 12:15*
 
-- <a href="https://www.icelandreview.com/news/storms-and-ice-disrupt-travel-as-yellow-warning-issued/" target="_blank">Storms and Ice Disrupt Travel as Yellow Warning Issued</a> <small>Iceland Review • Oct 31</small>
-- <a href="https://www.icelandreview.com/in-focus/in-focus-staying-safe-on-icelands-winter-roads/" target="_blank">In Focus | Staying Safe on Iceland’s Winter Roads</a> <small>Iceland Review • Nov 01</small>
-- <a href="https://www.ruv.is/english/2025-10-31-icy-roads-and-gale-force-winds-for-many-457782/" target="_blank">Icy roads and gale force winds for many</a> <small>RUV English • Oct 31</small>
-- <a href="https://grapevine.is/news/2025/10/31/ring-road-closed-at-two-locations-in-south-iceland-due-to-high-winds/" target="_blank">Ring Road Closed At Two Locations In South Iceland Due To High Winds</a> <small>Grapevine • Oct 31</small>
-- <a href="https://www.icelandreview.com/news/domestic-flights-grounded-across-iceland-yesterday-due-to-severe-winds/" target="_blank">Domestic Flights Grounded Across Iceland Yesterday Due to Severe Winds</a> <small>Iceland Review • Nov 01</small>
-- <a href="https://www.ruv.is/english/2025-11-03-scouts-honour-at-bessastadir-457926/" target="_blank">Scouts&#x27; honour at Bessastaðir</a> <small>RUV English • Nov 03</small>
+- <a href="https://www.icelandreview.com/travel/hertz-presents-the-ultimate-iceland-road-trip-day-5-akureyri-the-arctic-coast/" target="_blank">Hertz Presents the Ultimate Iceland Road Trip | Day 5 – Akureyri & the Arctic Coast</a> <small>Iceland Review • Nov 03</small>
+- <a href="https://www.icelandreview.com/news/icelands-cold-snap-couldnt-kill-the-mosquito-scientists-confirm/" target="_blank">Iceland’s Cold Snap Couldn’t Kill the Mosquito, Scientists Confirm</a> <small>Iceland Review • Nov 03</small>
+- <a href="https://www.icelandreview.com/news/icelands-new-cruise-ship-tax-draws-early-economic-warnings/" target="_blank">Iceland’s New Cruise-Ship Tax Draws Early Economic Warnings</a> <small>Iceland Review • Nov 03</small>
+- <a href="https://www.icelandreview.com/news/one-in-five-iceland-residents-now-foreign-nationals/" target="_blank">One in Five Iceland Residents Now Foreign Nationals</a> <small>Iceland Review • Nov 03</small>
