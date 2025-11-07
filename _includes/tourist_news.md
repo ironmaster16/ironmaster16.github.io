@@ -1,10 +1,10 @@
 ## News for Tourists
 
-*Last updated: 2025-11-07 07:10*
+*Last updated: 2025-11-07 12:39*
 
-- <a href="https://www.icelandreview.com/news/three-nights-of-sound-your-guide-to-iceland-airwaves-2025/" target="_blank">Three Nights of Sound | Your Guide to Iceland Airwaves 2025</a> <small>Iceland Review • Nov 05</small>
-- <a href="https://www.icelandreview.com/news/exploring-icelands-south-and-east-photo-gallery/" target="_blank">Exploring Iceland’s South and East | Photo Gallery</a> <small>Iceland Review • Nov 04</small>
-- <a href="https://www.icelandreview.com/news/reykjavik-gears-up-for-iceland-airwaves-2025-this-week/" target="_blank">Reykjavík Gears Up for Iceland Airwaves 2025 This Week</a> <small>Iceland Review • Nov 04</small>
-- <a href="https://www.icelandreview.com/news/bright-northern-lights-expected-in-west-iceland-tonight/" target="_blank">Bright Northern Lights Expected in West Iceland Tonight</a> <small>Iceland Review • Nov 06</small>
-- <a href="https://www.ruv.is/english/2025-11-07-icelandic-education-awards-winners-announced-458322/" target="_blank">Icelandic Education Awards winners announced</a> <small>RUV English • Nov 07</small>
-- <a href="https://www.ruv.is/english/2025-11-07-play-refund-requests-hit-isk-800-million-458320/" target="_blank">Play refund requests hit ISK 800 million</a> <small>RUV English • Nov 07</small>
+- <a href="https://grapevine.is/music/2025/11/07/day-one-iceland-airwaves-2025-reykjavik-grapevine-coverage/" target="_blank">Day One: Iceland Airwaves 2025 Reykjavík Grapevine Coverage</a> <small>Grapevine • Nov 07</small>
+- <a href="https://www.icelandreview.com/news/icelandic-learners-bring-new-life-to-the-language/" target="_blank">Icelandic Learners Bring New Life to the Language</a> <small>Iceland Review • Nov 07</small>
+- <a href="https://www.icelandreview.com/news/icelanders-toast-the-festive-season-as-christmas-beer-returns/" target="_blank">Icelanders Toast the Festive Season as Christmas Beer Returns</a> <small>Iceland Review • Nov 07</small>
+- <a href="https://www.ruv.is/english/2025-11-07-does-not-recognise-ministers-claim-that-foreign-students-cheat-the-system-458323/" target="_blank">Does not recognise minister’s claim that foreign students cheat the system</a> <small>RUV English • Nov 07</small>
+- <a href="https://www.ruv.is/english/2025-11-07-weekend-closure-at-breidholtsbraut-for-bridge-construction-458324/" target="_blank">Weekend closure at Breiðholtsbraut for bridge construction</a> <small>RUV English • Nov 07</small>
+- <a href="https://www.ruv.is/english/2025-11-07-magnus-thorsteinsson-creditors-get-isk-300-million-16-years-after-bankruptcy-458338/" target="_blank">Magnús Þorsteinsson creditors get ISK 300 million 16 years after bankruptcy</a> <small>RUV English • Nov 07</small>
