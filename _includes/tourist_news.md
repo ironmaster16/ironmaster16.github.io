@@ -1,10 +1,10 @@
 ## News for Tourists
 
-*Last updated: 2025-11-06 18:39*
+*Last updated: 2025-11-07 07:10*
 
+- <a href="https://www.icelandreview.com/news/three-nights-of-sound-your-guide-to-iceland-airwaves-2025/" target="_blank">Three Nights of Sound | Your Guide to Iceland Airwaves 2025</a> <small>Iceland Review • Nov 05</small>
+- <a href="https://www.icelandreview.com/news/exploring-icelands-south-and-east-photo-gallery/" target="_blank">Exploring Iceland’s South and East | Photo Gallery</a> <small>Iceland Review • Nov 04</small>
+- <a href="https://www.icelandreview.com/news/reykjavik-gears-up-for-iceland-airwaves-2025-this-week/" target="_blank">Reykjavík Gears Up for Iceland Airwaves 2025 This Week</a> <small>Iceland Review • Nov 04</small>
 - <a href="https://www.icelandreview.com/news/bright-northern-lights-expected-in-west-iceland-tonight/" target="_blank">Bright Northern Lights Expected in West Iceland Tonight</a> <small>Iceland Review • Nov 06</small>
-- <a href="https://www.ruv.is/english/2025-11-06-ruv-english-radio-meet-the-neighbours-2025-reykjavik-458284/" target="_blank">RÚV English Radio - MEET THE NEIGHBOURS 2025, REYKJAVÍK</a> <small>RUV English • Nov 06</small>
-- <a href="https://www.ruv.is/english/2025-11-06-continued-cooling-and-fewer-first-time-buyers-458289/" target="_blank">Continued cooling and fewer first-time buyers</a> <small>RUV English • Nov 06</small>
-- <a href="https://www.ruv.is/english/2025-11-06-iceland-airwaves-2025-kicks-off-tonight-458247/" target="_blank">Iceland Airwaves 2025 kicks off tonight</a> <small>RUV English • Nov 06</small>
-- <a href="https://www.ruv.is/english/2025-11-06-more-than-90-varieties-of-jol-beer-available-this-year-458280/" target="_blank">More than 90 varieties of jól beer available this year</a> <small>RUV English • Nov 06</small>
-- <a href="https://www.icelandreview.com/news/icelandair-launches-flights-to-miami-as-passenger-numbers-climb-14/" target="_blank">Icelandair Launches Flights to Miami as Passenger Numbers Climb 14%</a> <small>Iceland Review • Nov 06</small>
+- <a href="https://www.ruv.is/english/2025-11-07-icelandic-education-awards-winners-announced-458322/" target="_blank">Icelandic Education Awards winners announced</a> <small>RUV English • Nov 07</small>
+- <a href="https://www.ruv.is/english/2025-11-07-play-refund-requests-hit-isk-800-million-458320/" target="_blank">Play refund requests hit ISK 800 million</a> <small>RUV English • Nov 07</small>
