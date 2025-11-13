@@ -1,10 +1,7 @@
 ## News for Tourists
 
-*Last updated: 2025-11-12 18:29*
+*Last updated: 2025-11-13 07:17*
 
-- <a href="https://www.ruv.is/english/2025-11-12-ruv-english-radio-korean-film-festival-iceland-bio-paradis-458685/" target="_blank">RÚV English Radio - KOREAN FILM FESTIVAL ICELAND, BÍÓ PARADÍS</a> <small>RUV English • Nov 12</small>
-- <a href="https://www.icelandreview.com/news/icelandic-minister-calls-on-apple-to-support-icelandic-language/" target="_blank">Culture Minister Calls on Apple to Support Icelandic Language</a> <small>Iceland Review • Nov 12</small>
-- <a href="https://www.ruv.is/english/2025-11-12-head-says-school-mobile-ban-bill-money-better-spent-on-mental-health-458687/" target="_blank">Head says school mobile ban bill money better spent on mental health</a> <small>RUV English • Nov 12</small>
-- <a href="https://www.ruv.is/english/2025-11-12-new-online-icelandic-english-dictionary-launches-458704/" target="_blank">New online Icelandic-English dictionary launches</a> <small>RUV English • Nov 12</small>
-- <a href="https://www.ruv.is/english/2025-11-12-man-charged-with-rape-and-sexual-offences-against-child-in-the-mulaborg-case-458691/" target="_blank">Man charged with rape and sexual offences against child in the Múlaborg case</a> <small>RUV English • Nov 12</small>
-- <a href="https://www.ruv.is/english/2025-11-12-iceland-and-norway-not-exempt-from-eu-silicon-safeguard-measures-458688/" target="_blank">Iceland and Norway not exempt from EU silicon safeguard measures</a> <small>RUV English • Nov 12</small>
+- <a href="https://www.ruv.is/english/2025-11-13-land-near-askja-rises-by-nearly-one-metre-in-five-years-458757/" target="_blank">Land near Askja rises by nearly one metre in five years</a> <small>RUV English • Nov 13</small>
+- <a href="https://www.ruv.is/english/2025-11-13-criminals-target-children-and-offer-money-to-kill-people-458761/" target="_blank">Criminals &#x27;target children and offer money to kill people&#x27;</a> <small>RUV English • Nov 13</small>
+- <a href="https://www.ruv.is/english/2025-11-13-not-known-if-missing-icelander-reported-for-work-458760/" target="_blank">Not known if missing Icelander reported for work</a> <small>RUV English • Nov 13</small>
