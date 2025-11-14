@@ -1,8 +1,10 @@
 ## News for Tourists
 
-*Last updated: 2025-11-14 12:20*
+*Last updated: 2025-11-14 18:34*
 
-- <a href="https://www.icelandreview.com/news/investment-aims-to-broaden-westfjords-winter-tourism/" target="_blank">Investment Aims to Broaden Westfjords Winter Tourism</a> <small>Iceland Review • Nov 14</small>
-- <a href="https://www.ruv.is/english/2025-11-14-this-could-be-a-new-years-eve-eruption-458883/" target="_blank">&quot;This could be a New Year&#x27;s Eve eruption&quot;</a> <small>RUV English • Nov 14</small>
-- <a href="https://www.icelandreview.com/news/one-in-five-icelanders-never-pick-up-a-book-survey-finds/" target="_blank">One in Five Icelanders Never Pick Up a Book, Survey Finds</a> <small>Iceland Review • Nov 14</small>
-- <a href="https://www.ruv.is/english/2025-11-14-one-fifth-of-the-nation-never-reads-books-suggests-survey-458884/" target="_blank">One fifth of the nation never reads books, suggests survey</a> <small>RUV English • Nov 14</small>
+- <a href="https://www.ruv.is/english/2025-11-14-ruv-english-radio-icelandic-pop-then-today-tomorrow-next-week-458919/" target="_blank">RÚV English Radio - ICELANDIC POP: THEN, TODAY, TOMORROW, NEXT WEEK</a> <small>RUV English • Nov 14</small>
+- <a href="https://grapevine.is/news/2025/11/14/grapevine-events-reykjavik-dance-festival-raflost-icelandic-language-day/" target="_blank">Grapevine Events: Reykjavík Dance Festival, RAFLOST, Icelandic Language Day</a> <small>Grapevine • Nov 14</small>
+- <a href="https://www.ruv.is/english/2025-11-14-lights-out-at-gjogurta-458913/" target="_blank">Lights out at Gjögurtá</a> <small>RUV English • Nov 14</small>
+- <a href="https://www.ruv.is/english/2025-11-14-canadian-airline-opens-summer-routes-to-iceland-458908/" target="_blank">Canadian airline opens summer routes to Iceland</a> <small>RUV English • Nov 14</small>
+- <a href="https://www.ruv.is/english/2025-11-14-explorers-arrive-in-husavik-as-11th-explorers-festival-begins-458920/" target="_blank">Explorers arrive in Húsavík as 11th Explorers Festival begins</a> <small>RUV English • Nov 14</small>
+- <a href="https://grapevine.is/music/2025/11/14/grapevine-new-music-picks-briet-symfaux-roshildur-more/" target="_blank">Grapevine New Music Picks: Bríet, Symfaux, Róshildur & More</a> <small>Grapevine • Nov 14</small>
