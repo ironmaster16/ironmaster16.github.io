@@ -1,7 +1,8 @@
 ## News for Tourists
 
-*Last updated: 2025-11-14 07:07*
+*Last updated: 2025-11-14 12:20*
 
-- <a href="https://www.ruv.is/english/2025-11-11-gale-force-winds-yellow-alert-for-eastfjords-458606/" target="_blank">Gale force winds yellow alert for Eastfjords</a> <small>RUV English • Nov 11</small>
-- <a href="https://grapevine.is/travel/2025/11/11/a-field-guide-to-hardcore-birding-life-on-the-vagrant-bird-watch/" target="_blank">A Field Guide To Hardcore Birding: Life On The Vagrant Bird Watch</a> <small>Grapevine • Nov 11</small>
-- <a href="https://www.ruv.is/english/2025-11-14-difficult-to-claim-breach-of-eea-agreement-as-hopes-remain-of-different-outcome-458865/" target="_blank">Difficult to claim breach of EEA Agreement as hopes remain of different outcome</a> <small>RUV English • Nov 14</small>
+- <a href="https://www.icelandreview.com/news/investment-aims-to-broaden-westfjords-winter-tourism/" target="_blank">Investment Aims to Broaden Westfjords Winter Tourism</a> <small>Iceland Review • Nov 14</small>
+- <a href="https://www.ruv.is/english/2025-11-14-this-could-be-a-new-years-eve-eruption-458883/" target="_blank">&quot;This could be a New Year&#x27;s Eve eruption&quot;</a> <small>RUV English • Nov 14</small>
+- <a href="https://www.icelandreview.com/news/one-in-five-icelanders-never-pick-up-a-book-survey-finds/" target="_blank">One in Five Icelanders Never Pick Up a Book, Survey Finds</a> <small>Iceland Review • Nov 14</small>
+- <a href="https://www.ruv.is/english/2025-11-14-one-fifth-of-the-nation-never-reads-books-suggests-survey-458884/" target="_blank">One fifth of the nation never reads books, suggests survey</a> <small>RUV English • Nov 14</small>
